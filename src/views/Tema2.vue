@@ -263,7 +263,187 @@
 
     .titulo-segundo
       h2#t_2_3 2.3 Auditoría a los procesos logísticos
+    
+    .row
+      .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
+        figure
+          img(src="@/assets/curso/tema2/14.svg" data-aos="zoom-in-right")
+      .col-lg-9(style="place-self:center;")
+        p(data-aos="zoom-in") El propósito de la auditoria es suministrar un diagnóstico del estado del arte de la empresa en el área logística y cómo está afrontando los cambios con procesos de mejora continua. 
+        .p-3.pt-2.mt-4(style="background: rgb(255,255,255);background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(244,244,244,1) 100%);")
+          .row
+            .col-auto
+              figure
+                img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-right")
+            .col(style="place-self:center;")
+              p.mb-0.mt-3(data-aos="zoom-in-left") #[strong “Una auditoría es una radiografía de las distintas áreas y procesos involucrados en la cadena de abastecimiento (desde la adquisición de insumos hasta la entrega del producto final, incluyendo también los flujos de retorno)”.]
+              p.text-end.mt-3.mb-0(data-aos="zoom-in-left") #[span(style="background-color:#4ADBD1;padding:1px 10px;")] &nbsp;&nbsp;#[strong (Léxico, 2021)]
+    
+    .row.mt-5
+      .col-lg-9.mb-4.mb-lg-0(style="place-self:center;")
+        p(data-aos="zoom-in") La auditoría identifica aspectos a mejorar en los procesos logísticos y aporta mediante este ejercicio que se definan estrategias para restablecer el curso de los objetivos planteados, a fin de que la organización los plasme en planes de mejoramiento e indicadores que ayudarán a definir las estrategias a seguir.
+        p.mt-4(data-aos="zoom-in") Los siguientes aspectos mínimos componen la ruta de una auditoría:
+        ul.lista-ul--separador.mt-4
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Los profesionales que componen los cargos directivos deben ser entrevistados para discutir los flujos involucrados en los diferentes procesos.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Seleccionar las métricas que maneja la organización y depurarlas para obtener datos confiables.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Desarrollar cuestionarios orientados en la satisfacción del cliente.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Definir cuáles van a ser los indicadores idóneos para la evaluación objetiva en los procesos involucrados.
+      .col-lg-3(style="place-self:center;")
+        figure
+          img(src="@/assets/curso/tema2/16.png" data-aos="zoom-in-right")
+    
+    Separador.mt-5
 
+    .titulo-segundo
+      h2#t_2_4 2.4 Sistema de Gestión Ambiental ISO 14001
+    
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema2/17.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 El Sistema de Gestión Ambiental (SGA) es una herramienta o metodología que desarrolla una estructura organizativa, responsabilidades, prácticas, procedimientos, procesos y recursos para determinar y alcanzar una política medioambiental responsable. 
+    
+    p.mt-5.text-center.fw-bold(data-aos="zoom-in") En la siguiente figura se presentan las etapas de un Sistema de Gestión Ambiental. 
+
+    .col-xl-8.m-auto.mt-5.col-lg-10
+      figure
+        img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up")
+    
+    p.mt-5(data-aos="zoom-in") Implementar un Sistema de Gestión Ambiental permite acoger normas internacionales que otorgan varios beneficios para las instituciones, al adoptar los criterios que señala la ISO 14001 se facilita la entrada al mercado de proveedores a nivel mundial. Asimismo, aumentan los ahorros, al disminuir los residuos y se aumenta el uso eficiente de los recursos naturales. 
+
+    .row.mt-4
+      .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
+        figure
+          img(src="@/assets/curso/tema2/19.png" data-aos="zoom-in-right")
+      .col-lg-9(style="place-self:center;")
+        p(data-aos="zoom-in") Las industrias certificadas con la ISO 14001 tienen la posibilidad de disminuir gastos en seguros, atendiendo que pueden mostrar que su gestión del riesgo ha mejorado. De igual manera, se aumenta la imagen y el buen nombre de la organización y supone que traiga cierta ventaja competitiva frente a otras interacciones comerciales.
+        p.mt-4(data-aos="zoom-in") Aunado a lo anterior, para emplear la Norma ISO 14001 es indispensable contar con la creación de una cultura organizacional y contar con la participación de todos los trabajadores, generando interacción de todas las áreas y procesos para cumplir con un fin común. 
+        .cajon.color-acento-contenido.mt-4.p-4(style="background-color:#DDF8F7;") 
+          p.mb-0(data-aos="zoom-in") Es oportuno señalar que otras de las ventajas de la certificación de la Norma ISO 14001 es la posibilidad de alinearse con otras normas como lo son la ISO 9001 o la OHSAS 18001 (futura ISO 45001), lo que le permite a la organización complementarse con otros sistemas de gestión, con el fin de que las organizaciones sean más eficientes, se propenda por la mejora continua y se implementen procesos de evaluación constante de todas las acciones que realiza la organización dentro del Sistema de Gestión Ambiental.
+    
+    p.mt-4(data-aos="zoom-in") El objetivo principal es prevenir la contaminación y brindar apoyo a la protección ambiental para hallar la estabilidad entre estas, con las necesidades socioeconómicas de la organización. Por lo cual, la mencionada norma es aplicable a cualquier organización que desee avanzar y mostrar su compromiso con el cuidado del medioambiente gracias al Sistema de Gestión Ambiental. 
+
+    p.mt-5.text-center.fw-bold(data-aos="zoom-in") Requisitos:
+
+    .col-xl-10.m-auto.mt-5
+      .row
+        .col-lg.col-md-6.mb-4.mb-lg-0
+          .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
+            .text-end
+              span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
+            figure.text-center
+              img(src="@/assets/curso/tema2/20.svg" style="display:inline;max-width:150px;")
+            p.mt-4.fw-bold.text-center.mb-0 Política ambiental
+        .col-lg.col-md-6.mb-4.mb-lg-0
+          .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
+            .text-end
+              span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
+            figure.text-center
+              img(src="@/assets/curso/tema2/21.svg" style="display:inline;max-width:150px;")
+            p.mt-4.fw-bold.text-center.mb-0 La planificación
+        .col-lg.col-md-6.mb-4.mb-lg-0
+          .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
+            .text-end
+              span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
+            figure.text-center
+              img(src="@/assets/curso/tema2/22.svg" style="display:inline;max-width:150px;")
+            p.mt-4.fw-bold.text-center.mb-0 Implantar
+        .col-lg.col-md-6.mb-4.mb-lg-0
+          .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
+            .text-end
+              span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 04
+            figure.text-center
+              img(src="@/assets/curso/tema2/23.svg" style="display:inline;max-width:150px;")
+            p.mt-4.fw-bold.text-center.mb-0 La verificación
+        .col-lg.col-md-6.mb-4.mb-lg-0
+          .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
+            .text-end
+              span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 05
+            figure.text-center
+              img(src="@/assets/curso/tema2/24.svg" style="display:inline;max-width:150px;")
+            p.mt-4.fw-bold.text-center.mb-0 Revisión de la dirección
+    
+    .cajon.color-primario.mt-5.p-4(style="background-color:#F2F6FE;")
+      p.mb-0(data-aos="zoom-in")  Los mencionados requisitos de la ISO 14001 conllevan a generar algunos documentos entre los cuales se encuentran: los objetivos, las metas ambientales y la política, así mismo, se tiene que señalar el alcance del Sistema de Gestión Ambiental al momento de implementarlo. De igual manera, se debe instituir declaraciones con las responsabilidades y las funciones de cada uno de los trabajadores con relación al SGA y a los registros que sean necesarios en aras de asegurar la eficacia de la gestión que se está llevando a cabo.
+
+    .row.mt-5
+      .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
+        figure
+          img(src="@/assets/curso/tema2/25.png" data-aos="zoom-in-right")
+      .col-lg-9(style="place-self:center;")
+        p.fw-bold(data-aos="zoom-in")  Características principales: 
+        ul.lista-ul--separador.mt-4
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | No es una norma obligatoria.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Es aplicable a cualquier organización que tenga la intención de mejorar y el deseo de mostrar que se encuentra comprometida con el cuidado del medioambiente, con ocasión de la implementación del SGA.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | No está en la capacidad de declarar la máxima permisible de emisión de óxido nitroso de gases de combustión, ni tampoco el máximo de contenido bacteriológico en las aguas residuales.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | La norma se encuentra orientada a que se aplique en todas las organizaciones, sin importar el sector, la situación geográfica, social, cultural y las dimensiones.
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Señala de manera concreta y específica los requisitos del Sistema de Gestión Ambiental, que de mantenerse de una forma oportuna y adecuada va a mejorar la actuación ambiental, disminuyendo todos los impactos, entre los cuales se pueden mencionar los afluentes bacteriológicos y las emisiones de óxido nitroso. 
+          li(data-aos="zoom-in")
+            i.fas.fa-check-circle(style="color:#4ADBD1;")
+            | Se abstiene de señalar requisitos de actuaciones ambientales, excluyendo el compromiso de mejora continua y la obligación de cumplir con la legislación vigente en el tema.
+    
+    p.mt-5(data-aos="zoom-in") Un Sistema de Gestión Ambiental soportado en la ISO 14001 permite a una organización que se facilite el control de todas y cada una de sus actividades, productos y servicios, que puedan generar un impacto sobre el medioambiente, así como ayudar a que se minimicen todos los impactos ambientales que se puedan ocasionar en su operación. 
+
+    .col-xl-10.m-auto.mt-5
+      .p-4(data-aos="flip-up" style="background: rgb(58,180,177);background: linear-gradient(270deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:15px;")
+        .row.m-0
+          .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
+            figure.text-center
+              img(src="@/assets/curso/tema2/26.svg" style="display:inline;max-width:100px;")
+          .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
+            h4.text-white.fw-bold ISO 14001: Una Gestión Ambiental de calidad
+            p.text-small.text-white.mb-0 Se invita a consultar la página web www.nueva-iso-14001.com, donde se brinda información relevante de la ISO 14001 Una gestión ambiental de calidad. Preste atención a las fases, requisitos y composición de la norma.
+          .col-lg-3.col-md-3.text-center(style="place-self:center;")
+            a.boton.color-acento-botones(href="https://www.nueva-iso-14001.com/2015/06/iso-14001-una-gestion-ambiental-de-calidad/" target="_blank")
+              span Ir a página
+              i.fas.fa-link
+    
+    Separador.mt-5
+
+    .titulo-segundo
+      h2#t_2_5 2.5 Sistema de Gestión de la Calidad ISO 9001
+    
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema2/27.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 Es un conjunto de elementos que se relacionan, bajo procesos de trabajo que están orientados en poder lograr la calidad de un servicio o producto. En este sentido, los elementos que componen el SGC pueden ser los mismos que se han implementado en cualquier sistema de gestión, pero como siempre con miras a obtener la calidad del servicio o producto con el cual trabaje la organización.
+    
+    .col-xl-10.m-auto.mt-5
+      .p-4(data-aos="flip-up" style="background: rgb(58,180,177);background: linear-gradient(270deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:15px;")
+        .row.m-0
+          .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
+            figure.text-center
+              img(src="@/assets/curso/tema2/28.svg" style="display:inline;max-width:100px;")
+          .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
+            h4.text-white.fw-bold Sistema de gestión de la calidad
+            p.text-small.text-white.mb-0 Se invita a consultar la página web iveconsultores.com, donde se brinda información sobre qué es un sistema de gestión de la calidad. Preste atención a los conceptos del Sistema de Gestión de Calidad en cuanto a las fases, requisitos y composición de la norma.
+          .col-lg-3.col-md-3.text-center(style="place-self:center;")
+            a.boton.color-acento-botones(href="https://iveconsultores.com/sistema-de-gestion-de-calidad/" target="_blank")
+              span Ir a página
+              i.fas.fa-link
+    
+    p.mt-5(data-aos="zoom-in") El sistema de gestión de calidad es una regla que permite estandarizar el sistema de control de calidad de las organizaciones. La ISO (Organización Internacional de Estandarización) es una entidad que congrega a representantes de varios países que tienen como fin desarrollar normas de estandarización en diferentes áreas de actuación (ISO 9001: 2015, 2018). Para implementar un sistema de gestión de calidad se deben considerar las siguientes etapas: 
 
 
     
