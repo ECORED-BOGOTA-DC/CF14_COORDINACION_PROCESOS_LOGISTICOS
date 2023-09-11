@@ -72,7 +72,7 @@
           p.text-small(numero="1" titulo="Visión") Es el objetivo final de la empresa, indica las condiciones donde se desea llegar a futuro (2, 5 y 10 años). La visión se construye con la proyección de un nuevo lugar de acción donde se verá la empresa a corto, mediano y largo plazo.
           p.text-small(numero="2" titulo="Misión") Es el motivo por el cual ha sido creada la empresa, detalla el fin comercial y las características específicas del desempeño operativo.
           p.text-small(numero="3" titulo="Objetivos estratégicos") Comprenden las líneas principales por las cuales la empresa aborda el mercado, los productos que ofrece, las áreas objetivo y los clientes tipo, sensibles de ser cuantificables y medibles.
-          p.text-small(numero="4" titulo="Objetivos operativos") Comprenden las líneas principales por las cuales la empresa aborda el mercado, los productos que ofrece, las áreas objetivo y los clientes tipo, sensibles de ser cuantificables y medibles.
+          p.text-small(numero="4" titulo="Objetivos operativos") Define los objetivos para cada uno de los unidades operacionales o áreas de la organización, supeditados a las estrategias planteadas, con el fin de cumplir las metas planteadas por la organización.
       .col-lg-5(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-left")

@@ -93,7 +93,7 @@
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
             figure.text-center
               img(src="@/assets/curso/tema3/9.svg" style="display:inline;max-width:150px;")
-            p.mt-4.fw-bold.text-center.mb-0 Stocks
+            p.mt-4.fw-bold.text-center.mb-0 #[em Stocks]
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end

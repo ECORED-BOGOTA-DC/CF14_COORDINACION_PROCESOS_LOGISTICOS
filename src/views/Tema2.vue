@@ -18,7 +18,7 @@
       .col-lg-9.mb-4.mb-lg-0(style="place-self:center;")
         p(data-aos="zoom-in") Mediante el diagnóstico de los procesos logísticos se puede conocer la realidad de la cadena logística en el interior de una empresa. Básicamente, es un análisis comparativo entre los objetivos planteados inicialmente y las metas cumplidas al momento de hacer la evaluación.
         .cajon.color-acento-contenido.mt-4.p-4(style="background-color:#DDF8F7;") 
-          p.mb-0(data-aos="zoom-in") #[strong Benchmarking logístico:] recolecta información de los diferentes actores del mercado, con el fin de generar una cultura adaptativa de acuerdo con las necesidades de los clientes. Las actividades de benchmarking son desarrolladas con pruebas de evaluación comparativas, útiles para determinar espacios vulnerables y fortalecer las áreas que soportan el sistema logístico.
+          p.mb-0(data-aos="zoom-in") #[strong #[em Benchmarking] logístico:] recolecta información de los diferentes actores del mercado, con el fin de generar una cultura adaptativa de acuerdo con las necesidades de los clientes. Las actividades de benchmarking son desarrolladas con pruebas de evaluación comparativas, útiles para determinar espacios vulnerables y fortalecer las áreas que soportan el sistema logístico.
       .col-lg-3(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-left")
@@ -28,9 +28,9 @@
         figure
           img(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-right")
       .col-lg-8(style="place-self:center;")
-        p(data-aos="zoom-in") Los aspectos que evalúa el benchmarking en la cadena de suministro son los tiempos involucrados en cada proceso, el valor agregado creado y el logro producido según los objetivos planteados.
+        p(data-aos="zoom-in") Los aspectos que evalúa el #[em benchmarking] en la cadena de suministro son los tiempos involucrados en cada proceso, el valor agregado creado y el logro producido según los objetivos planteados.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
-          p.mb-0(data-aos="zoom-in") En el siguiente recurso de aprendizaje se presentan las tres clases de benchmarking que se pueden desarrollar de manera aislada o asociada al conjunto de actividades de la cadena logística:
+          p.mb-0(data-aos="zoom-in") En el siguiente recurso de aprendizaje se presentan las tres clases de #[em benchmarking] que se pueden desarrollar de manera aislada o asociada al conjunto de actividades de la cadena logística:
     
     .tarjeta.bg-white.p-4.p-lg-5.cont_slyder1.mt-5
       SlyderA(tipo="b")
@@ -38,7 +38,7 @@
           div(style="position:absolute;width:100%;left:0;z-index:1;top:-60px;")
             span(style="font-size:160px;font-weight:bold;color:#DBDDE0;") 01
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center;position:relative;z-index:2;")
-            h5 Benchmarking interno
+            h5 #[em Benchmarking] interno
             p.mt-4 Es una comparación interna de la organización, se tiene como parámetro la forma como están desarrollando los diferentes procesos en cada área de la organización. 
             p.mt-4 Los resultados obtenidos son comparados entre dependencias para identificar cuáles son los que favorecen el dinamismo de la compañía e institucionalizarlos dentro de la empresa. 
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
@@ -48,7 +48,7 @@
           div(style="position:absolute;width:100%;left:0;z-index:1;top:-60px;")
             span(style="font-size:160px;font-weight:bold;color:#DBDDE0;") 02
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center;position:relative;z-index:2;")
-            h5 Benchmarking externo
+            h5 #[em Benchmarking] externo
             p.mt-4 Esta técnica motiva la superación de los límites y expone a la organización a un variado abanico de alternativas, donde puede extractar lo mejor del mercado y adaptarlo a su propio ecosistema.
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
             figure
@@ -57,7 +57,7 @@
           div(style="position:absolute;width:100%;left:0;z-index:1;top:-60px;")
             span(style="font-size:160px;font-weight:bold;color:#DBDDE0;") 03
           .col-lg-8.mb-4.mb-lg-0(style="place-self:center;position:relative;z-index:2;")
-            h5 Benchmarking competitivo
+            h5 #[em Benchmarking] competitivo
             p.mt-4 Es un análisis comparativo desde el interior de la organización, buscando las razones de ineficiencia en los procesos propios de la empresa por medio de entidades especializadas en investigación y consultoría, estas suministrarán resultados sin sesgo o presión por alguna de las unidades operativas del sistema. Adicionalmente, proveerán información acerca de las debilidades y fortalezas presentadas asociadas a los competidores.
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
             figure
@@ -155,7 +155,7 @@
         .col.pe-0.ps-0
           div(style="position:absolute;width:5px;background-color:#91B3FA;height:50px;right:0;top:20%;")
           .h-100.d-flex.align-content-center.p-3(style="background-color:#F8F8F8;border-radius:0px 30px 30px 0px;")
-            p.mb-0 Los drones juegan un papel relevante en las nuevas tecnologías usadas en la distribución y rastreo de mercancías, debido a sus características de movilidad.
+            p.mb-0 Los #[em drones] juegan un papel relevante en las nuevas tecnologías usadas en la distribución y rastreo de mercancías, debido a sus características de movilidad.
       .row.m-0.mb-3(style="box-shadow:3px 3px 10px rgba(0,0,0,.15);border-radius:0px 30px 30px 0px;position:relative;" data-aos="zoom-in-up")
         .col-auto.ps-0.pe-0
           .h-100.d-flex.align-items-center.align-content-center.p-3(style="background-color:#57DBD8;")
@@ -171,7 +171,7 @@
         .col.pe-0.ps-0
           div(style="position:absolute;width:5px;background-color:#91B3FA;height:50px;right:0;top:20%;")
           .h-100.d-flex.align-content-center.p-3(style="background-color:#F8F8F8;border-radius:0px 30px 30px 0px;")
-            p.mb-0 El big data incursiona en el mundo logístico, recolectando información elemental para mejorar la eficiencia de las actividades productivas con la toma de decisiones estratégicas.
+            p.mb-0 El #[em big data] incursiona en el mundo logístico, recolectando información elemental para mejorar la eficiencia de las actividades productivas con la toma de decisiones estratégicas.
     
     p.mt-5(data-aos="zoom-in") La trazabilidad presenta tres tipos, las cuales están supeditadas al tipo de mercancía y proceso productivo:
     
@@ -402,6 +402,7 @@
             | Se abstiene de señalar requisitos de actuaciones ambientales, excluyendo el compromiso de mejora continua y la obligación de cumplir con la legislación vigente en el tema.
     
     p.mt-5(data-aos="zoom-in") Un Sistema de Gestión Ambiental soportado en la ISO 14001 permite a una organización que se facilite el control de todas y cada una de sus actividades, productos y servicios, que puedan generar un impacto sobre el medioambiente, así como ayudar a que se minimicen todos los impactos ambientales que se puedan ocasionar en su operación. 
+    p.mt-4(data-aos="fade-right") Por lo anterior, está encaminado en la gestión de “causa y efecto”, en el entendido de que todos los servicios, actividades y productos que se ofrezcan por parte de la organización son la causa y los efectos que resultan del impacto que los mismos generan sobre el medioambiente. Conforme a lo anterior, los impactos que se pueden presentar son aumento de la tasa de individuos con enfermedades respiratorias dentro de la población que se encuentra cerca de la empresa, la contaminación que se produzca en un terreno colindante a la organización con ocasión a filtraciones o los cambios de temperatura del agua de un arroyo cercano, entre otros.
 
     .col-xl-10.m-auto.mt-5
       .p-4(data-aos="flip-up" style="background: rgb(58,180,177);background: linear-gradient(270deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);border-radius:15px;")
@@ -448,6 +449,8 @@
     .col-xl-10.m-auto.mt-5
       figure
         img(src="@/assets/curso/tema2/29.svg" data-aos="zoom-in-up")
+    
+    p.mt-5(data-aos="fade-left") Reconozca los beneficios de implementar un sistema de gestión de calidad, propuestos por la nueva-ISO-9001-2015 (2021):
     
     .cont_2_2.mt-5.pt-5.pb-5
       .col-xl-10.m-auto
@@ -523,6 +526,9 @@
 
     .cont_2_3.mt-5
       .col-xl-4.col-lg-6.m-auto
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 4.
+          span Organización estructural de los sistemas de gestión de la calidad.
         figure
           img(src="@/assets/curso/tema2/38.svg" data-aos="zoom-in-up")
     
@@ -572,7 +578,7 @@
     
     .row.mt-5
       .col-lg-9.mb-4.mb-lg-0(style="place-self:center;")
-        p(data-aos="zoom-in") Las características de la norma son: 
+        p(data-aos="zoom-in") Los beneficios al implementar la norma de acuerdo con la nueva-ISO-45001 (2021):
         ul.lista-ul--separador.mt-4
           li(data-aos="zoom-in")
             i.fas.fa-check-circle(style="color:#4ADBD1;") 
@@ -729,13 +735,10 @@
           figure
             img(src='@/assets/curso/tema2/53.svg' data-aos="zoom-in-up")
         .tarjeta.color-acento-botones.p-4(x="74%" y="70%" numero="+" style="background-color:#12263F;")
-          .h5.mb-2.text-white Trazabilidad hacia atrás
           p.text-white.mb-0 Es la trazabilidad de los productos que se reciben de proveedores, dejando detalle de qué, cuándo, cuántos, quién e información clave que dé cuenta del origen del producto. Desde cualquier etapa se debería poder contar este tipo de trazabilidad, pues la cadena de registro puede romperse si no se tiene el rastro detallado de cada producto. 
         .tarjeta.color-acento-botones.p-4(x="44%" y="10%" numero="+" style="background-color:#12263F;")
-          .h5.mb-2.text-white Trazabilidad del proceso o interna
           p.text-white.mb-0 Es la trazabilidad de los productos que se encuentran  dentro de la empresa.  De esto se debe dejar registro cuando son procesados, transformados, cambiados, mezclados o divididos, dejando trazabilidad de lo que se crea, a partir de qué se crean, cómo, cuándo, cuánto queda y se debe cumplir con el principio FIFO (primero entra, primero sale), etc. 
         .tarjeta.color-acento-botones.p-4(x="15%" y="70%" numero="+" style="background-color:#12263F;")
-          .h5.mb-2.text-white Trazabilidad hacia adelante
           p.text-white.mb-0 Es la trazabilidad de los productos que salen de la empresa, se debe dejar registro de a quién se entrega, qué se entrega o qué se ha vendido, cuándo, cuántos, si los intermediarios cumplen con las condiciones de conservación de los productos para dar cumplimiento a las fechas de vencimiento, entre otros. Es necesario contar con la información detallada que surja desde “el campo al plato” a lo largo de cada etapa. 
     
     .cont_2_4.mt-5.p-4.p-lg-5
@@ -747,7 +750,7 @@
           .tarjeta.bg-white.p-4.p-lg-5
             SlyderA(tipo="b")
               .row.text-center
-                p.fw-bold La información que es oportuna registrar
+                p.fw-bold La información que es oportuna registrar es:
                 p.mt-4 De quién o quiénes se reciben los productos, es decir, el origen de estos, los pormenores de los proveedores, contrato, entre otros. 
               .row.text-center
                 p Qué se recibe,  las condiciones del producto, su estado (según corresponda: fresco, congelado, etc.), el tipo de producto, número de lote y/o el número de identificación de cada uno de los productos, fecha de envasado, elaboración y vencimiento, controles de calidad, factura de compra, y cualquier otro dato que dé cuenta de la identidad del producto. 
@@ -777,7 +780,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema2/57.svg')
-          p.mt-4 Se debe tener registro de ingredientes, aditivos, los alimentos, especias, todo producto que se incorpore, con la opción de utilizar el registro de control de stock.
+          p.mt-4 Se debe tener registro de ingredientes, aditivos, los alimentos, especias, todo producto que se incorpore, con la opción de utilizar el registro de control de #[em stock].
         .tarjeta.bg-white.p-4(style="box-shadow:0px 0px 10px rgba(0,0,0,.1);border-radius:0px;")
           .row.justify-content-center.mb-3
             .col-8
