@@ -21,12 +21,12 @@
           p.mb-0(data-aos="zoom-in") #[strong #[em Benchmarking] logístico:] recolecta información de los diferentes actores del mercado, con el fin de generar una cultura adaptativa de acuerdo con las necesidades de los clientes. Las actividades de benchmarking son desarrolladas con pruebas de evaluación comparativas, útiles para determinar espacios vulnerables y fortalecer las áreas que soportan el sistema logístico.
       .col-lg-3(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .row.mt-5
       .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/3.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8(style="place-self:center;")
         p(data-aos="zoom-in") Los aspectos que evalúa el #[em benchmarking] en la cadena de suministro son los tiempos involucrados en cada proceso, el valor agregado creado y el logro producido según los objetivos planteados.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -43,7 +43,7 @@
             p.mt-4 Los resultados obtenidos son comparados entre dependencias para identificar cuáles son los que favorecen el dinamismo de la compañía e institucionalizarlos dentro de la empresa. 
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
             figure
-              img(src="@/assets/curso/tema2/5.svg")
+              img(src="@/assets/curso/tema2/5.svg" alt="Imagen decorativa")
         .row(style="position:relative;")
           div(style="position:absolute;width:100%;left:0;z-index:1;top:-60px;")
             span(style="font-size:160px;font-weight:bold;color:#DBDDE0;") 02
@@ -52,7 +52,7 @@
             p.mt-4 Esta técnica motiva la superación de los límites y expone a la organización a un variado abanico de alternativas, donde puede extractar lo mejor del mercado y adaptarlo a su propio ecosistema.
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
             figure
-              img(src="@/assets/curso/tema2/6.svg")
+              img(src="@/assets/curso/tema2/6.svg" alt="Imagen decorativa")
         .row(style="position:relative;")
           div(style="position:absolute;width:100%;left:0;z-index:1;top:-60px;")
             span(style="font-size:160px;font-weight:bold;color:#DBDDE0;") 03
@@ -61,7 +61,7 @@
             p.mt-4 Es un análisis comparativo desde el interior de la organización, buscando las razones de ineficiencia en los procesos propios de la empresa por medio de entidades especializadas en investigación y consultoría, estas suministrarán resultados sin sesgo o presión por alguna de las unidades operativas del sistema. Adicionalmente, proveerán información acerca de las debilidades y fortalezas presentadas asociadas a los competidores.
           .col-lg-4(style="place-self:center;position:relative;z-index:2;")
             figure
-              img(src="@/assets/curso/tema2/7.svg")
+              img(src="@/assets/curso/tema2/7.svg" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -69,7 +69,7 @@
       h2#t_2_1 2.1 Construcción de indicadores de gestión
     
     figure.mb-4.mb-lg-0
-      img(src="@/assets/curso/tema2/8.png" data-aos="flip-up")
+      img(src="@/assets/curso/tema2/8.png" data-aos="flip-up" alt="Imagen decorativa")
     .col-lg-10.m-auto
       .p-4.cont_gradiente1(data-aos="flip-up")
         p.mb-0 Es prudente tener una visión amplia del entorno evaluado, es decir, la perspectiva de negocio debe ser transversal, sobre toda la estructura organizacional, ya que, al término de la implementación del indicador, el flujo de información debe ser bidireccional en todas las áreas.
@@ -77,7 +77,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/9.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9
         p(data-aos="zoom-in") Adicionalmente, es prioritario definir los siguientes parámetros:
         .row.mt-4
@@ -123,7 +123,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0
         figure
-          img(src="@/assets/curso/tema2/10.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/10.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9
         p(data-aos="zoom-in") Es la capacidad de tener el control de un producto, materia prima, artículo o servicio mediante una identificación registrada, ubicación e historial del mismo. 
         p.mt-4(data-aos="zoom-in") Es útil para mejorar los procesos de control e incrementar la eficiencia de la organización, de la misma forma reduce costos por fallas de la estructura operativa y los traumatismos que puedan surgir por la pérdida del producto.
@@ -182,7 +182,7 @@
             .crd_hover_txt(data-aos='flip-up')
               .crd_hover_txt--img
                 figure
-                  img(src='@/assets/curso/tema2/11.png')
+                  img(src='@/assets/curso/tema2/11.png' alt="Imagen decorativa")
               .crd_hover_txt--body(style="background-color:#91B3FA;")
                 h5.mb-3.text-center Trazabilidad hacia atrás
                 p.mt-3.mb-0.text-small El origen del producto es el principio del seguimiento y control, es decir, el rastreo surge cuando el proveedor emite la orden de salida de la materia prima desde su lugar de despacho. 
@@ -191,7 +191,7 @@
             .crd_hover_txt(data-aos='flip-up')
               .crd_hover_txt--img
                 figure
-                  img(src='@/assets/curso/tema2/12.png')
+                  img(src='@/assets/curso/tema2/12.png' alt="Imagen decorativa")
               .crd_hover_txt--body(style="background-color:#57DBD8;")
                 h5.mb-3.text-center Trazabilidad interna
                 p.mt-3.mb-0.text-small El seguimiento es efectuado en los procesos internos, la materia prima se involucra en el sistema donde toma características propias de la organización.
@@ -199,7 +199,7 @@
             .crd_hover_txt(data-aos='flip-up')
               .crd_hover_txt--img
                 figure
-                  img(src='@/assets/curso/tema2/13.png')
+                  img(src='@/assets/curso/tema2/13.png' alt="Imagen decorativa")
               .crd_hover_txt--body(style="background-color:#91B3FA;")
                 h5.mb-3.text-center Tazabilidad hacia adelante
                 p.mt-3.mb-0.text-small El control se desarrolla en el proceso de emisión de la orden de despacho hasta la entrega final del producto al cliente. La mercancía o servicio debe tener registrado el lugar o planta de origen, lote al cual pertenece, fechas de expedición y recepción del producto, así como la identificación del cliente (lugar, identificación de quien recibe).
@@ -267,14 +267,14 @@
     .row
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/14.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/14.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") El propósito de la auditoria es suministrar un diagnóstico del estado del arte de la empresa en el área logística y cómo está afrontando los cambios con procesos de mejora continua. 
         .p-3.pt-2.mt-4(style="background: rgb(255,255,255);background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(244,244,244,1) 100%);")
           .row
             .col-auto
               figure
-                img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-right")
+                img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
             .col(style="place-self:center;")
               p.mb-0.mt-3(data-aos="zoom-in-left") #[strong “Una auditoría es una radiografía de las distintas áreas y procesos involucrados en la cadena de abastecimiento (desde la adquisición de insumos hasta la entrega del producto final, incluyendo también los flujos de retorno)”.]
               p.text-end.mt-3.mb-0(data-aos="zoom-in-left") #[span(style="background-color:#4ADBD1;padding:1px 10px;")] &nbsp;&nbsp;#[strong (Léxico, 2021)]
@@ -298,7 +298,7 @@
             | Definir cuáles van a ser los indicadores idóneos para la evaluación objetiva en los procesos involucrados.
       .col-lg-3(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/16.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/16.png" data-aos="zoom-in-right" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -316,14 +316,14 @@
 
     .col-xl-8.m-auto.mt-5.col-lg-10
       figure
-        img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" alt="Muestra grafico de etapas de un sistema de gestión ambiental con el siguiente texto: 1. Etapa de planteamiento: los mecanismos a aplicar, duración y forma de conseguir lo propuesto por la organización.  2. Etapa de implementación: Se lleva a cabo un plan, una preparación con vistas al punto mencionado 3. Etapa de verificación: Se hace una comparación entre la implementación realizada con la que se planificó inicialmente. 4. Etapa de mejora: Se definen las gestiones que se requieren para remediar las problemáticas generadas de desviaciones registradas en el sistema de gestión ambiental.")
     
     p.mt-5(data-aos="zoom-in") Implementar un Sistema de Gestión Ambiental permite acoger normas internacionales que otorgan varios beneficios para las instituciones, al adoptar los criterios que señala la ISO 14001 se facilita la entrada al mercado de proveedores a nivel mundial. Asimismo, aumentan los ahorros, al disminuir los residuos y se aumenta el uso eficiente de los recursos naturales. 
 
     .row.mt-4
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/19.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/19.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Las industrias certificadas con la ISO 14001 tienen la posibilidad de disminuir gastos en seguros, atendiendo que pueden mostrar que su gestión del riesgo ha mejorado. De igual manera, se aumenta la imagen y el buen nombre de la organización y supone que traiga cierta ventaja competitiva frente a otras interacciones comerciales.
         p.mt-4(data-aos="zoom-in") Aunado a lo anterior, para emplear la Norma ISO 14001 es indispensable contar con la creación de una cultura organizacional y contar con la participación de todos los trabajadores, generando interacción de todas las áreas y procesos para cumplir con un fin común. 
@@ -341,35 +341,35 @@
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
             figure.text-center
-              img(src="@/assets/curso/tema2/20.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema2/20.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Política ambiental
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
             figure.text-center
-              img(src="@/assets/curso/tema2/21.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema2/21.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 La planificación
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
             figure.text-center
-              img(src="@/assets/curso/tema2/22.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema2/22.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Implantar
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 04
             figure.text-center
-              img(src="@/assets/curso/tema2/23.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema2/23.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 La verificación
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 05
             figure.text-center
-              img(src="@/assets/curso/tema2/24.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema2/24.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Revisión de la dirección
     
     .cajon.color-primario.mt-5.p-4(style="background-color:#F2F6FE;")
@@ -378,7 +378,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/25.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/25.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p.fw-bold(data-aos="zoom-in")  Características principales: 
         ul.lista-ul--separador.mt-4
@@ -409,7 +409,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema2/26.svg" style="display:inline;max-width:100px;")
+              img(src="@/assets/curso/tema2/26.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.text-white.fw-bold ISO 14001: Una Gestión Ambiental de calidad
             p.text-small.text-white.mb-0 Se invita a consultar la página web www.nueva-iso-14001.com, donde se brinda información relevante de la ISO 14001 Una gestión ambiental de calidad. Preste atención a las fases, requisitos y composición de la norma.
@@ -435,7 +435,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema2/28.svg" style="display:inline;max-width:100px;")
+              img(src="@/assets/curso/tema2/28.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.text-white.fw-bold Sistema de gestión de la calidad
             p.text-small.text-white.mb-0 Se invita a consultar la página web iveconsultores.com, donde se brinda información sobre qué es un sistema de gestión de la calidad. Preste atención a los conceptos del Sistema de Gestión de Calidad en cuanto a las fases, requisitos y composición de la norma.
@@ -448,7 +448,7 @@
 
     .col-xl-10.m-auto.mt-5
       figure
-        img(src="@/assets/curso/tema2/29.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema2/29.svg" data-aos="zoom-in-up" alt="Muestra etapas para implementar sistemas de gestión de calidad 1. Establecer la situación actual de la organización  2. . Definir los objetivos 3. Estimación de plazos- tiempos 4.Definición de recursos y personal 5. Estimar la productividad actual 6. Aplicar cambios que permitan obtener mejoras")
     
     p.mt-5(data-aos="fade-left") Reconozca los beneficios de implementar un sistema de gestión de calidad, propuestos por la nueva-ISO-9001-2015 (2021):
     
@@ -461,11 +461,11 @@
               p.mb-0 Los procesos que se llevan a cabo en la actividad productiva de la organización tienen y siguen unos estándares que aseguran que se está cumpliendo con las normas que permiten que sea un proceso optimizado. 
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema2/30.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;")
+                img(src='@/assets/curso/tema2/30.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;" alt="Imagen decorativa")
           .row
             .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema2/31.svg' data-aos="zoom-in-right" style="display:inline;max-width:200px;")
+                img(src='@/assets/curso/tema2/31.svg' data-aos="zoom-in-right" style="display:inline;max-width:200px;" alt="Imagen decorativa")
             .col-md-6.col-lg-8.text-start(style="place-self:center;")
               h5 Sobresalir frente a la competencia
               p.mb-0 Las organizaciones que implementen y cuenten con el Certificado de la Norma ISO 9001 van a destacarse de la competencia, porque contar con un sistema de gestión de calidad que se encuentre certificado genera una imagen muy positiva sobre los potenciales clientes, haciendo que una organización prevalezca frente a otras.
@@ -475,11 +475,11 @@
               p.mb-0 Se debe mejorar la calidad de los servicios o productos, sin que esto conlleve a que la calidad de los mismos se vea afectada. El fin es optimizar el proceso y eliminar los costos superfluos de tiempo o recursos.
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema2/32.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;")
+                img(src='@/assets/curso/tema2/32.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;" alt="Imagen decorativa")
           .row
             .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema2/33.svg' data-aos="zoom-in-right" style="display:inline;max-width:200px;")
+                img(src='@/assets/curso/tema2/33.svg' data-aos="zoom-in-right" style="display:inline;max-width:200px;" alt="Imagen decorativa")
             .col-md-6.col-lg-8.text-start(style="place-self:center;")
               h5 Satisfacer al cliente
               p.mb-0 La finalidad principal que se desea obtener de la implementación de un sistema de gestión de calidad es poder cumplir con todas las expectativas que el cliente establezca. El objetivo en todo el proceso se encuentra orientado a satisfacer siempre al cliente. 
@@ -489,7 +489,7 @@
               p.mb-0 Al cumplir los estándares que establece un sistema de gestión de calidad la organización ofrece seguridad ante los clientes potenciales. El poder obtener nuevos clientes se logra al tener una excelente imagen que se proyecta con el hecho de que una organización ofrezca bienes y servicios de calidad, lo cual se produce cuando se adopta un sistema de gestión de calidad que permita avalar los procedimientos que se llevan a cabo como resultado del proceso productivo. Por lo cual, al tener una certificación en la Norma ISO 9001 se permite asegurar una atención optima al cliente, que ayuda a la captación de estos. 
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema2/34.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;")
+                img(src='@/assets/curso/tema2/34.svg' data-aos="zoom-in-left" style="display:inline;max-width:200px;" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") El principal objetivo o fin que tiene la Norma ISO 9001 es acrecentar la satisfacción de los clientes, gracias a los procesos de mejora continua. 
 
@@ -500,7 +500,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema2/35.png')
+              img(src='@/assets/curso/tema2/35.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#91B3FA;")
             h5.mb-3.text-center El cumplimiento de los requisitos legales
             p.mt-3.mb-0.text-small El tener la certificación de calidad de la Norma ISO 9001 no solo implica acogerse a las reglas o pautas de ISO en esta materia; del mismo modo, es indispensable que las empresas u organizaciones acojan las diferentes legislaciones relacionadas con el tema, como lo es la Ley de protección de datos, las licencias adaptadas para la actividad comercial, las leyes laborales y de riesgos profesionales, además de todas las normas, continentales, nacionales, regionales y locales sobre los procesos de calidad. 
@@ -509,7 +509,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema2/36.png')
+              img(src='@/assets/curso/tema2/36.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#57DBD8;")
             h5.mb-3.text-center Formación del personal
             p.mt-3.mb-0.text-small Es necesario para la implementación del proceso de un sistema de gestión de calidad la formación adecuada y óptima de todos los individuos que hacen parte de las empresas, por ser ellos quienes finalmente ejecutarán las labores o tareas previas a la aplicación del modelo de calidad. Es importante mencionar que esta formación se puede dar por la misma empresa o si es necesario, delegarse en una consultora especializada. 
@@ -517,7 +517,7 @@
         .crd_hover_txt(data-aos='flip-up')
           .crd_hover_txt--img
             figure
-              img(src='@/assets/curso/tema2/37.png')
+              img(src='@/assets/curso/tema2/37.png' alt="Imagen decorativa")
           .crd_hover_txt--body(style="background-color:#91B3FA;")
             h5.mb-3.text-center Desembolso económico
             p.mt-3.mb-0.text-small El proceso de gestión de calidad que esté avalado por la ISO 9001 permite tener una ventaja desde el aspecto de la competitividad con otras empresas que dará sus óptimos resultados a largo plazo; sin embargo, implica en la fase de implementación de una cierta inversión económica, sobre todo si se obtienen los servicios de una consultora especializada. 
@@ -530,7 +530,7 @@
           h5 Figura 4.
           span Organización estructural de los sistemas de gestión de la calidad.
         figure
-          img(src="@/assets/curso/tema2/38.svg" data-aos="zoom-in-up")
+          img(src="@/assets/curso/tema2/38.svg" data-aos="zoom-in-up" alt="Muestra organización estructural de los sistemas de gestión de calidad: 1. objetivo o alcance 2. Normatividad 3. Definiciones y términos 4. Marco de la organización 5. Liderazgo  6. La planificación 7. Soporte")
     
     Separador.mt-5
 
@@ -538,7 +538,7 @@
       h2#t_2_6 2.6	Sistema de Seguridad y Salud en el Trabajo OSHAS 18000 
     
     figure.mb-4.mb-lg-0
-      img(src="@/assets/curso/tema2/39.png" data-aos="flip-up")
+      img(src="@/assets/curso/tema2/39.png" data-aos="flip-up" alt="Imagen decorativa")
     .col-lg-10.m-auto
       .p-4.cont_gradiente1(data-aos="flip-up")
         p.mb-0 La Norma OHSAS 18001 es un estándar voluntario que se relaciona con la salud en el trabajo y con la seguridad en el trabajo. En el desarrollo de esta se obtuvo la participación de distintas empresas certificadoras alrededor del mismo, reuniendo más de 15 países de Asia, Europa y América. 
@@ -549,7 +549,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/40.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/40.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Las características de la norma son: 
         ul.lista-ul--separador.mt-4
@@ -600,7 +600,7 @@
             | Permite tener una fuerza de trabajo que se caracterice por estar bien calificada, esté motivada a través de la satisfacción de las expectativas de empleo. 
       .col-lg-3(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/41.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/41.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -617,7 +617,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/43.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/43.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Si un operador conoce o tiene la sospecha que un alimento no está cumpliendo con los requisitos mínimos y necesarios de seguridad alimentaria, la legislación vigente lo obliga a que identifique y retire el mismo en el menor tiempo posible, con el fin de que se proteja la salud de todos los consumidores. 
         .cajon.color-acento-contenido.mt-4.p-4(style="background-color:#DDF8F7;") 
@@ -628,7 +628,7 @@
         .row.m-0
           .col-lg-2.col-md-3.mb-4.mb-md-0(style="place-self:center;")
             figure.text-center
-              img(src="@/assets/curso/tema2/44.svg" style="display:inline;max-width:100px;")
+              img(src="@/assets/curso/tema2/44.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
           .col-lg-7.col-md-6.mb-4.mb-md-0(style="place-self:center;")
             h4.text-white.fw-bold Trazabilidad de alimentos, definición y normativas:
             p.text-small.text-white.mb-0 Consulte la página web trazable.io donde se brinda información  sobre la trazabilidad de alimentos, definición y normativas. Preste atención a la utilidad, los requisitos, los estándares reconocidos y a la importancia del aseguramiento de la cadena alimentaria.
@@ -642,7 +642,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/45.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/45.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Así las cosas, está diseñada para que sea lo suficientemente flexible como para consentir que las organizaciones alimentarias alcancen sus objetivos identificados, tanto para animales como para el consumo humano. 
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -658,20 +658,20 @@
                 p.mt-4 Es la facultad para dar seguimiento al movimiento de un alimento por intermedio de los pasos concretos o específicos de la producción, transformación y distribución (Codex Alimentaruis). 
               .row.text-center
                 figure
-                  img(src="@/assets/curso/tema2/48.svg")
+                  img(src="@/assets/curso/tema2/48.svg" alt="Imagen decorativa")
                 p.mt-4 Es la capacidad de rehacer los eventos, uso o la localización de un producto a través de identificaciones registradas (ISO 8402). 
               .row.text-center
                 p.mt-4 Es la posibilidad de hallar y seguirle el rastro por intermedio de cada una de las etapas de producción y distribución a un alimento, una sustancia destinada a ser incorporada en alimentos o con probabilidad de serlo o un animal que tiene como fin la producción de alimentos (Artículo 178/2002 del Parlamento de la UE). 
         .col-lg-6(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema2/47.png")
+            img(src="@/assets/curso/tema2/47.png" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Los aspectos en torno a lo que se construye como trazabilidad en general son el registro histórico de los datos relativos a un artículo o un lote específico y una identificación codificada para un producto. 
 
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/49.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/49.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") La trazabilidad se fundamenta en cada una de las unidades que se producen en una instalación y que estén identificadas de forma inequívoca y así mismo, que sea posible determinar las características principales que están asociadas a su producción, esto es:
         .row.mt-4
@@ -699,7 +699,7 @@
       h5 Figura 5.
       span Fases para la aplicación de un sistema de trazabilidad
     figure
-      img(src="@/assets/curso/tema2/50.svg" data-aos="zoom-in-up")
+      img(src="@/assets/curso/tema2/50.svg" data-aos="zoom-in-up" alt="Imagen que muestra fases para la aplicación de un sistema de trazabilidad y se describen en la parte inferior.")
     
     br
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
@@ -708,7 +708,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/51.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/51.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") En primer lugar, la empresa deberá estudiar detenidamente los procedimientos, tanto en su contenido como en su forma de archivo que está utilizando y evaluar si con ellos se cumple el objetivo de trazabilidad. En algunos casos las empresas pueden encontrarse con que ya se está haciendo todo lo necesario para conseguir la trazabilidad; en otros en cambio podría ser necesario generar nuevos archivos o adaptar los procedimientos existentes. Es importante destacar que un sistema de trazabilidad no tiene por qué ser complicado. 
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -733,7 +733,7 @@
       ImagenInfografica.color-secundario
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema2/53.svg' data-aos="zoom-in-up")
+            img(src='@/assets/curso/tema2/53.svg' data-aos="zoom-in-up" alt="Imagen de tipos de trazabilidad - Trazabilidad hacia atrás - Trazabilidad hacia adelante - Trazabilidad del proceso o interna")
         .tarjeta.color-acento-botones.p-4(x="74%" y="70%" numero="+" style="background-color:#12263F;")
           p.text-white.mb-0 Es la trazabilidad de los productos que se reciben de proveedores, dejando detalle de qué, cuándo, cuántos, quién e información clave que dé cuenta del origen del producto. Desde cualquier etapa se debería poder contar este tipo de trazabilidad, pues la cadena de registro puede romperse si no se tiene el rastro detallado de cada producto. 
         .tarjeta.color-acento-botones.p-4(x="44%" y="10%" numero="+" style="background-color:#12263F;")
@@ -745,7 +745,7 @@
       .row
         .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema2/54.png")
+            img(src="@/assets/curso/tema2/54.png" alt="Imagen decorativa")
         .col-lg-6(style="place-self:center;")
           .tarjeta.bg-white.p-4.p-lg-5
             SlyderA(tipo="b")
@@ -805,7 +805,7 @@
     .row.mt-5
       .col-lg-4.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/61.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/61.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-8(style="place-self:center;")
         p(data-aos="zoom-in") Para el caso de las empresas del sector primario es oportuno asociar cada partida con los productos empleados para su consecución: raciones, alimentos para animales, medicamentos veterinarios, forma de captura y deben identificarla. La empresa transformadora debe asociar, las materias primas con los ingredientes que se han utilizado. 
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -818,7 +818,7 @@
           p.mb-0(data-aos="zoom-in") De igual manera se forman nuevas agrupaciones cuando se llevan a cabo operaciones de elaboración, almacenamiento y distribución como resultado de la mixtura de distintos productos, los cuales se deben identificar con su código de agrupación propio.
       .col-lg-4(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/62.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/62.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Con relación a la identificación de los productos hay una variedad amplia de posibles sistemas que van desde etiquetas que se escriben a mano como códigos de barras, entre otros. 
 
@@ -836,7 +836,7 @@
           p.mb-0(data-aos="zoom-in") Habitualmente, cuánto más delimitada sea una agrupación menor será la cantidad de producto que se debe retirar o inmovilizar en caso de inconvenientes de seguridad alimentaria, lo cual se denomina “recall”, por lo cual en la experiencia: 
       .col-lg-4(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/64.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/64.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .col-xl-8.m-auto.mt-5.col-lg-10
       .row.m-0.mb-3(style="box-shadow:3px 3px 10px rgba(0,0,0,.15);border-radius:0px 30px 30px 0px;position:relative;" data-aos="zoom-in-up")
@@ -910,7 +910,7 @@
           p.mb-0(data-aos="zoom-in") El periodo de conservación de los registros será como mínimo el periodo de vida útil del producto, más un periodo adicional de 6 meses; sin embargo, en muchos casos, resulta casi imposible conocer el proceso completo que va a sufrir todo el producto desde su producción primaria hasta su consumo final. Esto es debido a que existe un gran número de productos susceptibles de ser sometidos a uno o varios sistemas de conservación (congelación o ultracongelación) y/o transformación (esterilización, secado) que prolongan la vida útil de los mismos.
       .col-lg-4(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/66.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/66.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Establecer mecanismos de validación y verificación por parte de la empresa
@@ -918,7 +918,7 @@
     p(data-aos="zoom-in") Para determinar si la trazabilidad es fiable se deben establecer mecanismos de verificación y validación, por lo cual es recomendable realizar eventualmente revisiones y comprobar el funcionamiento y veracidad de los registros, el sistema debe evaluarse teniendo en cuenta: 
 
     figure.mt-4
-      img(src="@/assets/curso/tema2/67.svg" data-aos="zoom-in-up")
+      img(src="@/assets/curso/tema2/67.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
     
     .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5.mt-5(data-aos="flip-up")
       .bloque-texto-g__img(
@@ -937,7 +937,7 @@
               p.mb-0 Por ejemplo, para realizar esta validación se tomará un producto y se hará seguimiento de los registros que se tienen de trazabilidad y se comprobará si se puede conocer el origen de las materias primas y de los procesos tecnológicos sufridos. Otro caso ejemplo podría ser validar si a partir de una documentación de una materia prima se puede conocer el producto del que ha formado parte y su distribución.
             .col-auto(style="place-self:center;")
               figure
-                img(src="@/assets/curso/tema2/70.svg")
+                img(src="@/assets/curso/tema2/70.svg" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Establecer mecanismos de comunicación entre empresas
@@ -949,7 +949,7 @@
           p.mb-0(data-aos="zoom-in") En varias empresas se solicita a sus proveedores que socialicen o compartan la información sobre la trazabilidad, establecen mecanismos y protocolos afines sobre cómo compartir la información y la identificación. 
       .col-lg-3(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/71.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema2/71.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Establecer procedimientos para la localización, inmovilización y/o retiro de productos (recall)
@@ -957,7 +957,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema2/72.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema2/72.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Las empresas en general tienen el deber legal de distribuir en el mercado productos seguros, que cumplan todos los requisitos legales; sin embargo, en ocasiones se producen incidentes. Cuando estos incidentes ocurren, las empresas deben determinar la naturaleza del evento y poder tomar las medidas correctivas pertinentes, con el fin de implementar medidas de control que garanticen la salud de los consumidores y la reputación de la empresa, eliminado la causa raíz que generó el evento y evitar que se vuelva a producir.
         p.mt-4(data-aos="zoom-in") Cuando esto ocurre, las empresas deben considerar las siguientes actuaciones:

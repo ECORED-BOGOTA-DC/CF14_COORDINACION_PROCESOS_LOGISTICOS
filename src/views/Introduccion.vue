@@ -2,14 +2,14 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido(data-aos="zoom-in-up")
+    .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span
           i.fas.fa-info
       h1 Introducción
 
     figure.mb-4.mb-lg-0
-      img(src="@/assets/curso/intro1.png" data-aos="flip-up")
+      img(src="@/assets/curso/intro1.png" data-aos="flip-up" alt="Imagen decorativa")
     
     .col-lg-10.m-auto
       .p-4.cont_gradiente1(data-aos="flip-up")
@@ -17,7 +17,7 @@
 
     .cont_intro1.mt-5
       .col-xl-10.m-auto
-        figure
+        figure(data-aos="fade-right")
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 

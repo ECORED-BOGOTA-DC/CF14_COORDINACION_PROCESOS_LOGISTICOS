@@ -21,35 +21,35 @@
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
             figure.text-center
-              img(src="@/assets/curso/tema1/2.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema1/2.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Compras
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
             figure.text-center
-              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema1/3.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Servicio al cliente
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
             figure.text-center
-              img(src="@/assets/curso/tema1/4.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema1/4.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Gestión de inventarios
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 04
             figure.text-center
-              img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema1/5.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Almacenamiento
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 05
             figure.text-center
-              img(src="@/assets/curso/tema1/6.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema1/6.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Transporte
     
     Separador.mt-5
@@ -60,7 +60,7 @@
     .row
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/7.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema1/7.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in-left") La empresa o corporación dentro de su programa de diseño orgánico establece metas y objetivos basados en las proyecciones supeditadas a la capacidad de producción y condiciones del mercado. De tal manera, son creados los planes estratégicos como herramientas que contengan un horizonte específico (corto, mediano y largo plazo), responsables de ejecución, recursos a utilizar y las acciones a tomar en determinadas circunstancias del mercado.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;")
@@ -75,12 +75,12 @@
           p.text-small(numero="4" titulo="Objetivos operativos") Define los objetivos para cada uno de los unidades operacionales o áreas de la organización, supeditados a las estrategias planteadas, con el fin de cumplir las metas planteadas por la organización.
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema1/8.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/9.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema1/9.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
         LineaTiempoD.color-secundario
           p.text-small(numero="1" titulo="Plan de acciones") Determina los objetivos asignados a cada área y persona responsable de las actividades comprometidas en las líneas estratégicas, para que tomen acciones necesarias en la asignación de recursos y en el control de los resultados.
@@ -94,7 +94,7 @@
     .row
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/10.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema1/10.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in-left") Es una herramienta analítica que permite trabajar la información de la organización sobre sus fortalezas, oportunidades, debilidades (ambiente interno) y amenazas (ambiente externo), convirtiéndose en un mecanismo de control para identificar oportunidades de mejora y fortalecer las ventajas en el área logística.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;")
@@ -105,9 +105,9 @@
         .h-100(style="background-color:#91B3FA;position:relative;" data-aos="zoom-in-up")
           div.d-none.d-md-block(style="position:absolute;width:100%;right:20px;top:37%;")
             figure.text-end
-              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;")
+              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;" alt="Imagen decorativa")
           figure
-            img(src="@/assets/curso/tema1/11.png")
+            img(src="@/assets/curso/tema1/11.png" alt="Imagen decorativa")
           .p-4
             h5 Oportunidades y amenazas
             p El análisis de la matriz FODA inicia con la recopilación de información externa, es decir, los aspectos que no son manipulados por la empresa, como la competencia directa o su entorno operativo; condiciones de tráfico con la flota de transporte, actualidad económica y política de la región donde esté operando la empresa.
@@ -115,9 +115,9 @@
         .h-100(style="background-color:#57DBD8;position:relative;" data-aos="zoom-in-up")
           div.d-none.d-md-block(style="position:absolute;width:100%;right:20px;top:37%;")
             figure.text-end
-              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;")
+              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;" alt="Imagen decorativa")
           figure
-            img(src="@/assets/curso/tema1/11.png")
+            img(src="@/assets/curso/tema1/11.png" alt="Imagen decorativa")
           .p-4
             h5 Debilidades y fortalezas
             p Es el diagnóstico interno con base en las debilidades y fortalezas de la organización, desde el punto de vista operativo, administrativo, orgánico y presupuestal de la estructura empresarial. Las fortalezas son los atributos o factores positivos útiles para crear oportunidades y poseer una ventaja competitiva. Mientras que las debilidades son los aspectos internos perjudiciales que obstaculizan la ejecución del objetivo, así las cosas, es necesario reconocerlas con el fin de elaborar estrategias que solucionen los problemas operativos y organizacionales. 
@@ -159,7 +159,7 @@
     .row
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/14.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema1/14.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in-left") El plan de operación logística analiza la totalidad de las acciones involucradas en los procesos productivos de la organización, a partir del abastecimiento de los productos básicos para la elaboración de los productos comercializados hasta la entrega del producto final al cliente. Dichas acciones se encuentran concatenadas y dirigidas hacia un objetivo en común, el cual es satisfacer al cliente con la obtención de la mercancía adquirida, de conformidad a los requerimientos inicialmente pactados entre las partes.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;")
@@ -169,19 +169,19 @@
       .col-lg.mb-4.mb-lg-0.pe-lg-0
         .h-100.p-4(style="background-color:#C4F2F1;border-radius:20px 0px 0px 20px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/15.svg" data-aos="zoom-in" style="display:inline;max-width:150px;")
+            img(src="@/assets/curso/tema1/15.svg" data-aos="zoom-in" style="display:inline;max-width:150px;" alt="Imagen decorativa")
           h5.mt-4(data-aos="zoom-in") Aprovisionamiento
           p.mt-3(data-aos="zoom-in") Es el proceso de adquisición de materias primas requeridas en el proceso de producción.
       .col-lg.mb-4.mb-lg-0.pe-lg-0.ps-lg-0
         .h-100.p-4(style="background-color:#D8E4FD;")
           figure.text-center
-            img(src="@/assets/curso/tema1/16.svg" data-aos="zoom-in" style="display:inline;max-width:150px;")
+            img(src="@/assets/curso/tema1/16.svg" data-aos="zoom-in" style="display:inline;max-width:150px;" alt="Imagen decorativa")
           h5.mt-4(data-aos="zoom-in") Producción
           p.mt-3(data-aos="zoom-in") Establece y gestiona las metodologías, programas y acciones requeridas en la obtención de un producto (servicio o bien), de conformidad con un nivel óptimo de calidad, potenciando recursos para desarrollar el producto final en los tiempos establecidos por la organización.
       .col-lg.mb-4.mb-lg-0.ps-lg-0
         .h-100.p-4(style="background-color:#C4F2F1;border-radius:0px 20px 20px 0px;")
           figure.text-center
-            img(src="@/assets/curso/tema1/17.svg" data-aos="zoom-in" style="display:inline;max-width:150px;")
+            img(src="@/assets/curso/tema1/17.svg" data-aos="zoom-in" style="display:inline;max-width:150px;" alt="Imagen decorativa")
           h5.mt-4(data-aos="zoom-in") Distribución física
           p.mt-3(data-aos="zoom-in") Tiene como ocupación las acciones asociadas a la planificación, desarrollo y control del flujo físico de las mercancías desde el lugar de producción hasta el sitio de consumo final.
     
@@ -211,7 +211,7 @@
       .row
         .col-auto
           figure
-            img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema1/19.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col(style="place-self:center;")
           p.mb-0(data-aos="zoom-in-left") Estos clientes asignan parte de su presupuesto para la adquisición frecuente de las mercancías o servicios creados por la organización, por lo cual, son este tipo de clientes los que determinan el volumen fijo de ventas y la generación de ingresos. Los clientes reales instauran el nivel de rentabilidad asegurada durante los períodos contables. Los clientes reales son clasificados en cinco clases:
     
@@ -219,7 +219,7 @@
       .row.col-xl-11.m-auto(titulo="Nivel de satisfacción")
         .col-md-6.col-lg-3.mb-4.mb-md-0(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/20.png')
+            img(src='@/assets/curso/tema1/20.png' alt="Imagen decorativa")
         .col-md-6.col-lg-9(style="place-self:center;")
           ul.lista-ul--separador
             li
@@ -245,11 +245,11 @@
               | #[strong Clientes de bajo volumen de compra:] gracias a su nivel de ingresos, estos clientes no pueden adquirir el producto, pero su nivel de satisfacción es aceptable. Se denominan clientes minoristas y hacen las compras al por menor.
         .col-md-6.col-lg-3(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/21.png')
+            img(src='@/assets/curso/tema1/21.png' alt="Imagen decorativa")
       .row.col-xl-11.m-auto(titulo="Influencia")
         .col-md-6.col-lg-3.mb-4.mb-md-0(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/22.png')
+            img(src='@/assets/curso/tema1/22.png' alt="Imagen decorativa")
         .col-md-6.col-lg-9(style="place-self:center;")
           ul.lista-ul--separador
             li
@@ -275,11 +275,11 @@
               | #[strong Cliente de compra ocasional:]  son los que se acercan a demandar los bienes y servicios una sola vez, o de vez en cuando. A estos clientes se les da seguimiento, para pedirles información que pueda servir para tratar de convertirlos en habituales o frecuentes.
         .col-md-6.col-lg-3(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/23.png')
+            img(src='@/assets/curso/tema1/23.png' alt="Imagen decorativa")
       .row.col-xl-11.m-auto(titulo="Vigencia")
         .col-md-6.col-lg-3.mb-4.mb-md-0(style="place-self:center;")
           figure
-            img(src='@/assets/curso/tema1/24.png')
+            img(src='@/assets/curso/tema1/24.png' alt="Imagen decorativa")
         .col-md-6.col-lg-9(style="place-self:center;")
           ul.lista-ul--separador
             li
@@ -311,21 +311,21 @@
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
               figure.text-center
-                img(src="@/assets/curso/tema1/27.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/27.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Optimizar:] de forma independiente las actividades del negocio proporcionan eficiencia en la estructura organizacional. 
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
               figure.text-center
-                img(src="@/assets/curso/tema1/28.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/28.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Integrar:] considera la totalidad de las acciones internamente en la compañía.
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
               figure.text-center
-                img(src="@/assets/curso/tema1/29.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/29.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Colaborar:] extendiendo el espíritu de colaboración que debe vincular a clientes y proveedores con la misma organización.
     
     Separador.mt-5
@@ -339,10 +339,10 @@
       .row
         .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema1/30.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema1/30.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col-lg-7(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema1/31.svg" data-aos="zoom-in-left")
+            img(src="@/assets/curso/tema1/31.svg" data-aos="zoom-in-left" alt="Muestra imagen con elementos de entrada y elementos de salida que se describen en la parte inferior de la imagen.")
     
     .cajon.color-primario.mt-5.p-4(style="background-color:#F2F6FE;")
       p.mb-0(data-aos="zoom-in") En el desarrollo de la caracterización de procesos también se debe tener en cuenta los siguientes aspectos:
@@ -354,84 +354,84 @@
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/32.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/32.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/33.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/33.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Objeto del #[br] proceso
             p.text-small.mb-0 El  por qué de la creación del proceso.
         .col-lg.mb-5.mb-lg-0.col-md-6.ps-md-4.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/34.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/34.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/35.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/35.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Responsable
             p.text-small.mb-0 Responsables del proceso.
         .col-lg.mb-5.mb-lg-0.col-md-6.ps-md-4.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/36.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/36.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/37.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/37.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Partes interesadas
             p.text-small.mb-0 Las personas que intervienen en el proceso.
         .col-lg.mb-5.mb-lg-0.col-md-6.ps-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/38.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/38.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/39.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/39.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Controles
             p.text-small.mb-0 Controles asociados al proceso para asegurar que se lleva a cabo de manera correcta.
       .mt-5.mb-5.d-none.d-lg-block
         figure
-          img(src="@/assets/curso/tema1/41.svg")
+          img(src="@/assets/curso/tema1/41.svg" alt="Imagen decorativa")
       .row
         .col-lg.mb-5.mb-lg-0.col-md-6.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/40.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/40.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/43.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/43.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Registro
             p.text-small.mb-0 Documentos de registro y control asociados al proceso para asegurar que se lleva a cabo correctamente.
         .col-lg.mb-5.mb-lg-0.col-md-6.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/44.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/44.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/45.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/45.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Indicadores
             p.text-small.mb-0 Indicadores de gestión relacionados con el rendimiento y desempeño de los procesos.
         .col-lg.mb-5.mb-lg-0.col-md-6.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/46.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/46.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/47.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/47.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Acciones
             p.text-small.mb-0 Acciones sucesivas internas de los procesos.
         .col-lg.col-md-6.pe-md-4
           .h-100.p-3(style="background-color:#E8E8E8;border-radius:0px 0px 15px 0px;position:relative;" data-aos="zoom-in-up")
             div(style="position:absolute;top:18px;width:100%;left:-25px;")
               figure
-                img(src="@/assets/curso/tema1/48.svg" style="max-height:80px;max-width:40px;")
+                img(src="@/assets/curso/tema1/48.svg" style="max-height:80px;max-width:40px;" alt="Imagen decorativa")
             div(style="position:absolute;top:-30px;width:100%;right:-15px;")
               figure.text-end
-                img(src="@/assets/curso/tema1/49.svg" style="max-width:70px;display:inline;")
+                img(src="@/assets/curso/tema1/49.svg" style="max-width:70px;display:inline;" alt="Imagen decorativa")
             p.text-small.fw-bold Riesgos
             p.text-small.mb-0 Riesgos inherentes al proceso.
     
@@ -439,7 +439,7 @@
     .row.mt-5
       .col-lg.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/50.svg" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema1/50.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg(style="place-self:center;")
         p(data-aos="zoom-in") El propósito de la caracterización de procesos es:
         ul.ps-md-4.lista-ul--separador.mt-4
@@ -466,7 +466,7 @@
         h5 Figura 1.
         span Caracterización de procesos
       figure.mt-4
-        img(src="@/assets/curso/tema1/51.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/51.svg" data-aos="zoom-in-up" alt="Muestra plantilla  modelo de una ficha de proceso donde incluye: -Nombre empresa -Nombre del proceso -Objeto -Responsable -Alcance -Elementos de entrada -Elementos de salida -Partes interesadas -Controles del proceso -Registros asociados -Indicadores del proceso -Descripción de actividades -Riesgo que falle proceso")
       figcaption.fw-normal.p-3.mt-4(style="background-color:#F6F6F6;") #[strong Nota.] Torres (2021). 
 
     Separador.mt-5
@@ -484,21 +484,21 @@
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
               figure.text-center
-                img(src="@/assets/curso/tema1/52.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/52.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Flujo de productos:] consta de la dinámica de productos desde los proveedores hacia los clientes y viceversa por concepto de devoluciones.  
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
               figure.text-center
-                img(src="@/assets/curso/tema1/53.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/53.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Flujo de información:] representa la gestión de datos asociados a los pedidos y sus estados en la entrega. 
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-start
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
               figure.text-center
-                img(src="@/assets/curso/tema1/54.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema1/54.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-4.text-center.mb-0 #[strong Flujo financiero:] está conformado por los créditos, fechas de pago y manejo de caja menor.
     
     p.mt-5(data-aos="zoom-in") Preste atención a la siguiente figura, en esta se relacionan los actores y elementos relevantes del flujo de la cadena de suministro: 
@@ -508,14 +508,14 @@
         h5 Figura 2.
         span Actores y elementos del flujo de la cadena de suministro
       figure.mt-4
-        img(src="@/assets/curso/tema1/55.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/55.svg" data-aos="zoom-in-up" alt="Muestra gráfico de actores y elementos del flujo de la cadena de suministro con  estos  textos: Flujo de información Flujo de materiales y productos Proveedor Recepción de materias primas Fabricación Almacenaje Transporte Punto de venta Cliente")
       figcaption.fw-normal.p-3.mt-4(style="background-color:#F6F6F6;") #[strong Nota.] TechTarget SearchData Center (2021). 
     
     .p-3.pt-2.mt-5(style="background: rgb(255,255,255);background: linear-gradient(270deg, rgba(255,255,255,1) 0%, rgba(244,244,244,1) 100%);")
       .row
         .col-auto
           figure
-            img(src="@/assets/curso/tema1/56.svg" data-aos="zoom-in-right")
+            img(src="@/assets/curso/tema1/56.svg" data-aos="zoom-in-right" alt="Imagen decorativa")
         .col(style="place-self:center;")
           p.mb-0(data-aos="zoom-in-left") Los procedimientos dentro de un contexto global abarcan la planificación y ejecución integrada de los procesos necesarios para gestionar el movimiento de materiales, información y capital financiero en actividades que incluyen, en general, la planificación de la demanda (TechTarget, 2021) y para esto se requiere:
     
@@ -550,7 +550,7 @@
       .row
         .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema1/58.png")
+            img(src="@/assets/curso/tema1/58.png" alt="Imagen decorativa")
         .col-lg-6(style="place-self:center;")
           .tarjeta.bg-white.p-4.p-lg-5
             SlyderA(tipo="b")
@@ -598,14 +598,14 @@
           p.mb-0(data-aos="zoom-in") A continuación, se presenta una figura que representa la cadena de valor propuesta por Michael Porter:
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema1/60.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema1/60.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .col-xl-8.col-lg-10.m-auto.mt-5
       .titulo-sexto.color-acento-botones
         h5 Figura 3.
         span Cadena de valor
       figure.mt-4
-        img(src="@/assets/curso/tema1/61.svg" data-aos="zoom-in-up")
+        img(src="@/assets/curso/tema1/61.svg" data-aos="zoom-in-up" alt="Muestra cadena de valor con los siguientes textos: Actividades de soporte Infraestructura de la empresa Gestión de recursos humanos Desarrollo de tecnología Compras Logística de entrada Operaciones Logística de salida Marketing y ventas Servicio Margen Actividades primarias")
     
 
 

@@ -8,7 +8,7 @@
       h1 Evaluación y mejora de los procesos logísticos
     
     figure.mb-4.mb-lg-0
-      img(src="@/assets/curso/tema3/1.png" data-aos="flip-up")
+      img(src="@/assets/curso/tema3/1.png" data-aos="flip-up" alt="Imagen decorativa")
     .col-lg-10.m-auto
       .p-4.cont_gradiente1(data-aos="flip-up")
         p.mb-0.fw-bold.text-center El control de la actividad logística debe ser ejercido con un excelente soporte informativo con las siguientes condiciones:
@@ -20,7 +20,7 @@
             .col-auto.p-0
               .h-100.p-2.d-flex.align-content-center.flex-wrap(style="background-color:#57DBD8;border-radius:7px 0px 0px 7px;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/2.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema3/2.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
             .col.p-0
               .h-100.d-flex.flex-wrap.align-content-center.p-2.align-items-center(style="background-color:#F6F6F6;border-radius:0px 7px 7px 0px;")
                 p.mb-0.text-center.w-100 Agilidad
@@ -29,7 +29,7 @@
             .col-auto.p-0
               .h-100.p-2.d-flex.align-content-center.flex-wrap(style="background-color:#91B3FA;border-radius:7px 0px 0px 7px;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/3.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema3/3.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
             .col.p-0
               .h-100.d-flex.flex-wrap.align-content-center.p-2.align-items-center(style="background-color:#F6F6F6;border-radius:0px 7px 7px 0px;")
                 p.mb-0.w-100.text-center Fiabilidad
@@ -38,7 +38,7 @@
             .col-auto.p-0
               .h-100.p-2.d-flex.align-content-center.flex-wrap(style="background-color:#57DBD8;border-radius:7px 0px 0px 7px;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/7.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema3/7.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
             .col.p-0
               .h-100.d-flex.flex-wrap.align-content-center.p-2.align-items-center(style="background-color:#F6F6F6;border-radius:0px 7px 7px 0px;")
                 p.mb-0.w-100.text-center Sencillez
@@ -47,7 +47,7 @@
             .col-auto.p-0
               .h-100.p-2.d-flex.align-content-center.flex-wrap(style="background-color:#91B3FA;border-radius:7px 0px 0px 7px;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/4.svg" style="display:inline;max-width:80px;")
+                  img(src="@/assets/curso/tema3/4.svg" style="display:inline;max-width:80px;" alt="Imagen decorativa")
             .col.p-0
               .h-100.d-flex.flex-wrap.align-content-center.p-2.align-items-center(style="background-color:#F6F6F6;border-radius:0px 7px 7px 0px;")
                 p.mb-0.w-100.text-center Eficiencia
@@ -59,9 +59,9 @@
         .h-100(style="background-color:#91B3FA;position:relative;" data-aos="zoom-in-up")
           div.d-none.d-md-block(style="position:absolute;width:100%;right:20px;top:50%;")
             figure.text-end
-              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;")
+              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;" alt="Imagen decorativa")
           figure
-            img(src="@/assets/curso/tema3/5.png")
+            img(src="@/assets/curso/tema3/5.png" alt="Imagen decorativa")
           .p-4
             h5 Seguimiento
             p Control de la actividad o proceso a través del tiempo comparado con el presupuesto mensual.
@@ -69,9 +69,9 @@
         .h-100(style="background-color:#57DBD8;position:relative;" data-aos="zoom-in-up")
           div.d-none.d-md-block(style="position:absolute;width:100%;right:20px;top:50%;")
             figure.text-end
-              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;")
+              img(src="@/assets/curso/tema1/13.svg" style="max-width:100px;display:inline;" alt="Imagen decorativa")
           figure
-            img(src="@/assets/curso/tema3/6.png")
+            img(src="@/assets/curso/tema3/6.png" alt="Imagen decorativa")
           .p-4
             h5 Evolución
             p Los datos son analizados en períodos de tiempo regulares, con el fin de fijar objetivos que comprueben la evolución de las actividades.
@@ -85,28 +85,28 @@
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
             figure.text-center
-              img(src="@/assets/curso/tema3/8.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema3/8.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0  Aprovisionamiento
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
             figure.text-center
-              img(src="@/assets/curso/tema3/9.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema3/9.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 #[em Stocks]
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
             figure.text-center
-              img(src="@/assets/curso/tema3/10.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema3/10.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Almacenaje y manipulación
         .col-lg.col-md-6.mb-4.mb-lg-0
           .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
             .text-end
               span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 04
             figure.text-center
-              img(src="@/assets/curso/tema3/11.svg" style="display:inline;max-width:150px;")
+              img(src="@/assets/curso/tema3/11.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Transporte y distribución
 
     .cajon.mt-5.p-4.color-acento-contenido(style="background-color:#DDF8F7;")
@@ -130,11 +130,11 @@
               p.mb-0 Identificar cada proceso de la cadena de suministro, los parámetros de viabilidad serán al detalle para obtener la mejora continua y un proceso sinérgico entre las actividades.
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/13.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/13.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
           .row
             .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/14.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/14.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
             .col-md-6.col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Definir el objetivo de cada indicador y sus variables, los indicadores deberán tener establecido el objetivo evaluado y considerar la dinámica financiera, la estructura organizacional y el material humano.
           .row
@@ -142,11 +142,11 @@
               p.mb-0 Recolección de datos valiosos de todos los procesos, obtener información en tiempo real de todas las áreas permite la observación detallada desde diferentes puntos de vista para predecir fenómenos externos de la empresa.
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/15.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/15.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
           .row
             .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/16.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/16.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
             .col-md-6.col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Identificar variables cuantificables en cada indicador,  así los impactos serán medidos de acuerdo con cada función logística significativa para el negocio.
           .row
@@ -154,11 +154,11 @@
               p.mb-0 Concretar la infraestructura involucrada en los procesos, identificar cuáles son las herramientas involucradas en el negocio, sistemas tecnológicos que ofrecen seguridad y celeridad en los procesos.
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/17.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/17.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
           .row
             .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/18.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/18.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
             .col-md-6.col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Comparar los indicadores seleccionados con los de la competencia. Después de la evaluación interna, los resultados serán comparados con la   competencia directa, de tal manera que se observe detenidamente el estado actual de la organización.
           .row
@@ -166,7 +166,7 @@
               p.mb-0 Medición continua de indicadores, al final de la evaluación, los indicadores de gestión deben ser monitoreados para garantizar los cambios positivos a los cuales se ha llegado.
             .col-md-6.col-lg-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/19.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;")
+                img(src='@/assets/curso/tema3/19.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Puntos críticos en los procesos logísticos
@@ -194,7 +194,7 @@
               p.text-center.mb-0 Producción
         .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/20.svg" data-aos="zoom-in-up")
+            img(src="@/assets/curso/tema3/20.svg" data-aos="zoom-in-up" alt="Imagen decorativa")
         .col-lg-3(style="place-self:center;")
           .tarjeta-numerada.color-primario.p-5.pb-4.pt-4.mb-4(style="box-shadow:0px 0px 15px rgba(0,0,0,.2);" data-aos="zoom-in-left")
               .tarjeta-numerada__numero.tarjeta_custom
@@ -227,7 +227,7 @@
           p.text-small(numero="4" titulo="Aprendizaje y crecimiento") Son los objetivos planteados para la innovación y la generación de nuevos productos (personas en capacitación, productos nuevos, etc.).
       .col-lg-5(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/21.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/21.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
       p.mb-0(data-aos="zoom-in") Esta herramienta puede ser utilizada en la definición de la estrategia del negocio, la comunicación de la estrategia del negocio, alcanzar un objetivo en común de manera transversal, establecer un sistema de comunicación, información y aprendizaje.
@@ -238,7 +238,7 @@
     .row
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/22.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema3/22.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Es un proceso desarrollado en las organizaciones con el objeto de modificar o mantener los productos a través de la opinión suministrada por los clientes y así, obtener valor con la fidelización de los clientes.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -252,23 +252,23 @@
             SlyderA(tipo="b")
               .row.text-center
                 figure.text-center
-                  img(src="@/assets/curso/tema3/24.svg" style="display:inline;max-width:100px;")
+                  img(src="@/assets/curso/tema3/24.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
                 p.mt-3.mb-0 #[strong Encuestas de la voz del cliente:] se entabla una conversación directa con el cliente, con una serie de preguntas en las que el cliente expone su opinión real del producto.
               .row.text-center
                 figure.text-center
-                  img(src="@/assets/curso/tema3/25.svg" style="display:inline;max-width:100px;")
+                  img(src="@/assets/curso/tema3/25.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
                 p.mt-3.mb-0 #[strong Encuestas de productos:] los productos evolucionan de acuerdo con la aceptación en el mercado, para eso se requiere que el cliente mantenga comentarios que retroalimenten los procesos, así mejorarán sus características, costo, embalaje, etc.
               .row.text-center
                 figure.text-center
-                  img(src="@/assets/curso/tema3/26.svg" style="display:inline;max-width:100px;")
+                  img(src="@/assets/curso/tema3/26.svg" style="display:inline;max-width:100px;" alt="Imagen decorativa")
                 p.mt-3.mb-0 #[strong Encuestas de evaluación de servicios:] la rapidez, facilidad y capacidad de respuesta son claves para mantener a los clientes satisfechos. Al realizar este tipo de encuesta es posible obtener información sobre el desempeño en términos de servicio y realizar mejoras en caso de que haya clientes insatisfechos registrados.
               .row.text-center
                 p #[strong Índice de rotación de clientes:] este indicador mide cuando los clientes dejan de adquirir el producto o los servicios de una empresa. El indicador se describe como el número de clientes que se han perdido, dividido por el número total de clientes. 
                 figure.mt-3.text-center
-                  img(src="@/assets/curso/tema3/27.svg")
+                  img(src="@/assets/curso/tema3/27.svg" alt="Imagen decorativa")
         .col-lg-6(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/23.png")
+            img(src="@/assets/curso/tema3/23.png" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -329,7 +329,7 @@
                       p.mb-0.text-center.w-100 Disciplina
         .col-lg-5(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/29.svg" data-aos="zoom-in-left")
+            img(src="@/assets/curso/tema3/29.svg" data-aos="zoom-in-left" alt="Muestra ejes temáticos método Kaizen *clasificar *ordenar *limpiar *estandarizar *disciplina")
     
     p.mt-5(data-aos="zoom-in") Esta metodología es una estrategia para incrementar la rentabilidad de la empresa, identifica y elimina todas las ineficiencias, además potencializa las fortalezas y oportunidades de la organización.
     p.mt-4(data-aos="zoom-in") Existen también otras metodologías o herramientas utilizadas en lograr la mejora continua de los procesos: 
@@ -342,21 +342,21 @@
               .text-end
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 01
               figure.text-center
-                img(src="@/assets/curso/tema3/30.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema3/30.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-3.text-center.mb-0 #[strong El ciclo de Deming o PDCA:] sus siglas en ingles se refieren a Plan, Do, Check, Act. En español es planear, hacer, evaluar, actuar. Son cuatro etapas fundamentales para mejorar la dinámica de los procesos.
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-end
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 02
               figure.text-center
-                img(src="@/assets/curso/tema3/31.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema3/31.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-3.text-center.mb-0 #[strong Six Sigma:] es una técnica que elimina los errores con una tasa máxima de 3,4 errores por cada millón de oportunidades de cometerlos.
           .col-lg.col-md-6.mb-4.mb-lg-0
             .h-100.p-4.pt-2(style="background-color:#F6F6F6;position:relative;border-radius:10px;box-shadow:0px 4px 5px rgba(0,0,0,.15);" data-aos="zoom-in-up")
               .text-end
                 span(style="color:#D7DADD;font-weight:bold;font-size:20px;") 03
               figure.text-center
-                img(src="@/assets/curso/tema3/32.svg" style="display:inline;max-width:150px;")
+                img(src="@/assets/curso/tema3/32.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-3.text-center.mb-0 #[strong Metodología Lean:] localiza las etapas que no proporcionan un valor al producto final, con el fin de obtener un producto de máxima calidad.
     
     Separador.mt-5
@@ -367,7 +367,7 @@
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/33.png" data-aos="zoom-in-right")
+          img(src="@/assets/curso/tema3/33.png" data-aos="zoom-in-right" alt="Imagen decorativa")
       .col-lg-9(style="place-self:center;")
         p(data-aos="zoom-in") Son medidas de rendimiento cuantificables y asociadas con las actividades logísticas, evalúa el desempeño obtenido de cada proceso de la organización. Con la información resultante obtenida por los indicadores se toman decisiones que favorecen el cumplimiento de los objetivos de sección productiva.
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
@@ -440,14 +440,14 @@
                 | Consistentes.
       .col-lg-3(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/33.png" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/33.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     p.mt-5(data-aos="zoom-in") Los indicadores que una empresa puede utilizar dependerán de su naturaleza, de los objetivos y áreas evaluadas en los procesos, así como de la información que puedan suministrar. A continuación, se presentan los tipos de indicadores KPI:
 
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema3/35.svg" data-aos="zoom-in-left")
+          img(src="@/assets/curso/tema3/35.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
         LineaTiempoD.color-secundario
           div(numero="1" titulo="Indicadores de gestión de producción")
@@ -475,7 +475,7 @@
                     | Estado de la producción.
               .col-lg-6(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/36.svg" style="max-width:200px;display:inline;")
+                  img(src="@/assets/curso/tema3/36.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
           div(numero="2" titulo="Indicadores de gestión de almacenamiento e inventario")
             p Obtiene información sobre el inventario y la forma como se debe manejar la bodega con respecto a las necesidades del mercado. 
             .row.mt-2
@@ -501,7 +501,7 @@
                     | Estado del inventario y del almacén.
               .col-lg-6(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/37.svg" style="max-width:200px;display:inline;")
+                  img(src="@/assets/curso/tema3/37.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
           div(numero="3" titulo="Indicadores de gestión logística de abastecimiento y compra")
             p Obtiene información sobre el inventario y la forma como se debe manejar la bodega con respecto a las necesidades del mercado. 
             .row.mt-2
@@ -524,7 +524,7 @@
                     | Estado de los pedidos recibidos.
               .col-lg-6(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/37.svg" style="max-width:200px;display:inline;")
+                  img(src="@/assets/curso/tema3/37.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
           div(numero="4" titulo="Indicadores de gestión de transporte y distribución")
             .row
               .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
@@ -549,7 +549,7 @@
                     | Estado de la función distribución.
               .col-lg-6(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/38.svg" style="max-width:200px;display:inline;")
+                  img(src="@/assets/curso/tema3/38.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
           div(numero="5" titulo="Indicadores de gestión de entrega y servicio al cliente")
             .row
               .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
@@ -565,7 +565,7 @@
                     | Costos documentales.
               .col-lg-6(style="place-self:center;")
                 figure.text-center
-                  img(src="@/assets/curso/tema3/39.svg" style="max-width:200px;display:inline;")
+                  img(src="@/assets/curso/tema3/39.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
     
     Separador.mt-5
 
@@ -578,7 +578,7 @@
       .row
         .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
           figure
-            img(src="@/assets/curso/tema3/41.png")
+            img(src="@/assets/curso/tema3/41.png" alt="Imagen decorativa")
         .col-lg-6(style="place-self:center;")
           .tarjeta.bg-white.p-4.p-lg-5
             SlyderA(tipo="b")
