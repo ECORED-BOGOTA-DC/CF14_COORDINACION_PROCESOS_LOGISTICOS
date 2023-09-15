@@ -369,12 +369,12 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Guadrón',
-          cargo: 'Responsable Línea de Producción Distrito Capital',
+          cargo: 'Responsable línea de producción Distrito Capital',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
@@ -385,7 +385,7 @@ export default {
       autores: [
         {
           nombre: 'Gloria Lida Alzate Suarez',
-          cargo: 'Adecuador Instruccional',
+          cargo: 'Adecuador instruccional',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
@@ -424,31 +424,31 @@ export default {
       autores: [
         {
           nombre: 'Jesús Antonio Vecino Valero',
-          cargo: 'Diseño web-2023',
+          cargo: 'Diseño web',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
-          cargo: 'Desarrollador Fullstack-2023',
+          cargo: 'Desarrollador Fullstack',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y Producción audiovisual',
+          cargo: 'Animación y producción audiovisual',
           centro:
             'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
         },

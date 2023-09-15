@@ -18,7 +18,7 @@
       .col-lg-9.mb-4.mb-lg-0(style="place-self:center;")
         p(data-aos="zoom-in") Mediante el diagnóstico de los procesos logísticos se puede conocer la realidad de la cadena logística en el interior de una empresa. Básicamente, es un análisis comparativo entre los objetivos planteados inicialmente y las metas cumplidas al momento de hacer la evaluación.
         .cajon.color-acento-contenido.mt-4.p-4(style="background-color:#DDF8F7;") 
-          p.mb-0(data-aos="zoom-in") #[strong #[em Benchmarking] logístico:] recolecta información de los diferentes actores del mercado, con el fin de generar una cultura adaptativa de acuerdo con las necesidades de los clientes. Las actividades de benchmarking son desarrolladas con pruebas de evaluación comparativas, útiles para determinar espacios vulnerables y fortalecer las áreas que soportan el sistema logístico.
+          p.mb-0(data-aos="zoom-in") #[strong #[em Benchmarking] logístico:] recolecta información de los diferentes actores del mercado, con el fin de generar una cultura adaptativa de acuerdo con las necesidades de los clientes. Las actividades de #[em benchmarking] son desarrolladas con pruebas de evaluación comparativas, útiles para determinar espacios vulnerables y fortalecer las áreas que soportan el sistema logístico.
       .col-lg-3(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/2.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
