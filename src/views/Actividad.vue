@@ -4,11 +4,11 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
-      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
+      .col-6.col-md-4.col-lg-3.mb-4.mb-md-0(data-aos="fade-right")
         .tarjeta.h-100.d-flex.align-items-center.p-4
           figure
             img(src="@/assets/template/arrastrar.svg" alt="Imagen decorativa")
-      .col-12.col-md-8.col-lg-9
+      .col-12.col-md-8.col-lg-9(data-aos="fade-left")
         .titulo-segundo
           h2 Planes de mejora a procesos logísticos
         p.mb-4 Implementar planes en métodos de mejora continua Kaizen, PDCA, Six Sigma y metodología Lean en los procesos logísticos de la organización, con el fin de incrementar la calidad, eficiencia y rendimiento en la gestión de la cadena de suministro.

@@ -209,7 +209,7 @@ export default {
     {
       tema: 'Los procesos logísticos',
       referencia:
-        'Fontalvo, T., De la Hoz, E. & Mendoza-Mendoza, A. (2021). Los procesos logísticos y la administración de la cadena de suministro. Saber, Ciencia y Libertad, 14 (2), p. 102–112',
+        'Fontalvo, T., De la Hoz, E. & Mendoza-Mendoza, A. (2021). Los procesos logísticos y la administración de la cadena de suministro. Saber, Ciencia y Libertad, 14 (2), p. 102-112',
       tipo: 'Artículo',
       link:
         'https://revistas.unilibre.edu.co/index.php/saber/article/view/5880/5458',
@@ -393,7 +393,7 @@ export default {
           nombre: 'Fabio Andrés Salazar Reyes',
           cargo: 'Experto temático',
           centro:
-            'Regional Huila – Centro de la Industria, la Empresa y los Servicios',
+            'Regional Huila - Centro de la Industria, la Empresa y los Servicios',
         },
         {
           nombre: 'Giovanna Escobar',
@@ -404,18 +404,18 @@ export default {
           nombre: 'Luis Fernando Botero Mendoza',
           cargo: 'Diseñador instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Revisor metodológico y pedagógico',
-          centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Julia Isabel Roberto',
           cargo: 'Diseñadora y evaluadora instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
       ],
     },

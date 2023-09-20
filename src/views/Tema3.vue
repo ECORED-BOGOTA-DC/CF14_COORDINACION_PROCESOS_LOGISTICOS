@@ -52,7 +52,7 @@
               .h-100.d-flex.flex-wrap.align-content-center.p-2.align-items-center(style="background-color:#F6F6F6;border-radius:0px 7px 7px 0px;")
                 p.mb-0.w-100.text-center Eficiencia
     
-    p.mt-5(data-aos="zoom-in") La información de control muestra realmente el estado de la empresa en el tiempo más corto posible, dicha información presenta dos tipos:
+    p.mt-5(data-aos="fade-right") La información de control muestra realmente el estado de la empresa en el tiempo más corto posible, dicha información presenta dos tipos:
 
     .row.mt-5
       .col-lg.mb-4.mb-lg-0
@@ -76,7 +76,7 @@
             h5 Evolución
             p Los datos son analizados en períodos de tiempo regulares, con el fin de fijar objetivos que comprueben la evolución de las actividades.
     
-    p.mt-5(data-aos="zoom-in") Los indicadores obtenidos tendrán información suficiente para el manejo adecuado de las funciones en la cadena de suministro:
+    p.mt-5(data-aos="fade-right") Los indicadores obtenidos tendrán información suficiente para el manejo adecuado de las funciones en la cadena de suministro:
 
     .col-xl-8.col-lg-10.m-auto.mt-5
       .row
@@ -109,64 +109,64 @@
               img(src="@/assets/curso/tema3/11.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
             p.mt-4.fw-bold.text-center.mb-0 Transporte y distribución
 
-    .cajon.mt-5.p-4.color-acento-contenido(style="background-color:#DDF8F7;")
-      p.mb-0(data-aos="zoom-in") Asociado a las funciones, debe ser analizado en conjunto el volumen, calidad, rendimiento, productividad y costos operativos.
+    .cajon.mt-5.p-4.color-acento-contenido(style="background-color:#DDF8F7;" data-aos="fade-right")
+      p.mb-0 Asociado a las funciones, debe ser analizado en conjunto el volumen, calidad, rendimiento, productividad y costos operativos.
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Evaluación del desempeño en los procesos logísticos
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/12.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema3/12.png')})`}" data-aos="fade-right"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Los tiempos del plan de evaluación deben estar estipulados a corto, mediano y largo plazo, junto a los procesos más significativos e inestables, en el siguiente recurso de aprendizaje se presentan los pasos para el tipo de evaluación:
     
     .cont_3_1.mt-5.pt-5.pb-5
       .col-xl-10.m-auto
         PasosA.color-acento-contenido(tipo="n")
-          .row
-            .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
+          .row(data-aos="fade-left")
+            .col-lg-8.order-lg-1.order-2(style="place-self:center;")
               p.mb-0 Identificar cada proceso de la cadena de suministro, los parámetros de viabilidad serán al detalle para obtener la mejora continua y un proceso sinérgico entre las actividades.
-            .col-md-6.col-lg-4(style="place-self:center;")
+            .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/13.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-          .row
-            .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
+                img(src='@/assets/curso/tema3/13.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+          .row(data-aos="fade-right")
+            .col-lg-4.col-6.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/14.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-            .col-md-6.col-lg-8.text-start(style="place-self:center;")
+                img(src='@/assets/curso/tema3/14.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+            .col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Definir el objetivo de cada indicador y sus variables, los indicadores deberán tener establecido el objetivo evaluado y considerar la dinámica financiera, la estructura organizacional y el material humano.
-          .row
-            .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
+          .row(data-aos="fade-left")
+            .col-lg-8.order-lg-1.order-2(style="place-self:center;")
               p.mb-0 Recolección de datos valiosos de todos los procesos, obtener información en tiempo real de todas las áreas permite la observación detallada desde diferentes puntos de vista para predecir fenómenos externos de la empresa.
-            .col-md-6.col-lg-4(style="place-self:center;")
+            .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/15.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-          .row
-            .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
+                img(src='@/assets/curso/tema3/15.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+          .row(data-aos="fade-right")
+            .col-lg-4.col-6.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/16.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-            .col-md-6.col-lg-8.text-start(style="place-self:center;")
+                img(src='@/assets/curso/tema3/16.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+            .col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Identificar variables cuantificables en cada indicador,  así los impactos serán medidos de acuerdo con cada función logística significativa para el negocio.
-          .row
-            .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
+          .row(data-aos="fade-left")
+            .col-lg-8.order-lg-1.order-2(style="place-self:center;")
               p.mb-0 Concretar la infraestructura involucrada en los procesos, identificar cuáles son las herramientas involucradas en el negocio, sistemas tecnológicos que ofrecen seguridad y celeridad en los procesos.
-            .col-md-6.col-lg-4(style="place-self:center;")
+            .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/17.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-          .row
-            .col-md-6.col-lg-4.mb-4.mb-md-0(style="place-self:center;")
+                img(src='@/assets/curso/tema3/17.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+          .row(data-aos="fade-right")
+            .col-lg-4.col-6.mb-4.mb-md-0(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/18.svg' data-aos="zoom-in-right" style="display:inline;max-width:160px;" alt="Imagen decorativa")
-            .col-md-6.col-lg-8.text-start(style="place-self:center;")
+                img(src='@/assets/curso/tema3/18.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
+            .col-lg-8.text-start(style="place-self:center;")
               p.mb-0 Comparar los indicadores seleccionados con los de la competencia. Después de la evaluación interna, los resultados serán comparados con la   competencia directa, de tal manera que se observe detenidamente el estado actual de la organización.
-          .row
-            .col-md-6.col-lg-8.mb-4.mb-md-0(style="place-self:center;")
+          .row(data-aos="fade-left")
+            .col-lg-8.order-lg-1.order-2(style="place-self:center;")
               p.mb-0 Medición continua de indicadores, al final de la evaluación, los indicadores de gestión deben ser monitoreados para garantizar los cambios positivos a los cuales se ha llegado.
-            .col-md-6.col-lg-4(style="place-self:center;")
+            .col-lg-4.col-6.order-lg-2.order-1.mb-lg-0.mb-4(style="place-self:center;")
               figure.text-center
-                img(src='@/assets/curso/tema3/19.svg' data-aos="zoom-in-left" style="display:inline;max-width:160px;" alt="Imagen decorativa")
+                img(src='@/assets/curso/tema3/19.svg' style="display:inline;max-width:160px;" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Puntos críticos en los procesos logísticos
@@ -219,7 +219,7 @@
     p(data-aos="zoom-in") Es una herramienta multidimensional útil en la medición del rendimiento corporativo de la empresa, desde cuatro visiones o perspectivas:
 
     .row.mt-5
-      .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
+      .col-lg-7.mb-4.mb-lg-0(style="place-self:center;" data-aos="fade-right")
         LineaTiempoD.color-secundario
           p.text-small(numero="1" titulo="Accionista") Son los objetivos financieros (utilidades del capital, ganancias operacionales, rendimientos, etc.).
           p.text-small(numero="2" titulo="Cliente") Son las metas propuestas por el cliente (participación del mercado, devoluciones y reclamos).
@@ -247,7 +247,7 @@
     
     .cont_3_2.mt-5.p-4.p-lg-5
       .row
-        .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
+        .col-lg-6.mb-4.mb-lg-0(style="place-self:center;" data-aos="fade-right")
           .tarjeta.bg-white.p-4
             SlyderA(tipo="b")
               .row.text-center
@@ -266,32 +266,31 @@
                 p #[strong Índice de rotación de clientes:] este indicador mide cuando los clientes dejan de adquirir el producto o los servicios de una empresa. El indicador se describe como el número de clientes que se han perdido, dividido por el número total de clientes. 
                 figure.mt-3.text-center
                   img(src="@/assets/curso/tema3/27.svg" alt="Imagen decorativa")
-        .col-lg-6(style="place-self:center;")
+        .col-lg-6(style="place-self:center;" data-aos="fade-left")
           figure
             img(src="@/assets/curso/tema3/23.png" alt="Imagen decorativa")
     
-    Separador.mt-5
-
-    .titulo-segundo
+    Separador
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_1 3.1 Planes de mejora a los procesos logísticos
     
-    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5(data-aos="flip-up")
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/tema3/28.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/tema3/28.png')})`}" data-aos="fade-right"
       )
-      .bloque-texto-g__texto.p-4
+      .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 Tienen como fin incrementar la calidad y el rendimiento en la producción de un bien o servicio por medio la evaluación continua de toda la estructura organizacional. Es de origen japonés, su filosofía se compromete con una mayor eficiencia, debido a los pequeños y continuos cambios para eliminar errores y dinámicas improductivas.
     
-    p.mt-5(data-aos="zoom-in") Esta técnica reúne estrategias que perfeccionan y optimizan los procesos a través de pequeños ajustes en cada actividad que comprende los procesos. Existen varios métodos que usan los procesos; sin embargo, el método Kaizen o 5S se convirtió en el más utilizado gracias a la facilidad de manejo y efectividad.
+    p.mt-5(data-aos="fade-right") Esta técnica reúne estrategias que perfeccionan y optimizan los procesos a través de pequeños ajustes en cada actividad que comprende los procesos. Existen varios métodos que usan los procesos; sin embargo, el método Kaizen o 5S se convirtió en el más utilizado gracias a la facilidad de manejo y efectividad.
     
-    .cont_3_1.mt-5.pt-4.pb-5
+    .BGM01.px-md-5.px-4.mt-5
       .row
         .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-          p.fw-bold(data-aos="zoom-in") Método de mejora continua Kaizen
-          p.mt-4(data-aos="zoom-in") Es un sistema creado por el ingeniero Nipón Taiichi Ohno para el fabricante de vehículos Toyota. Su función era aumentar la competitividad de la empresa y compararla con las compañías norteamericanas. 
-          p.mt-4(data-aos="zoom-in") Tal reto la convirtió en referente de la gestión empresarial en todo el mundo.
-          p.mt-4(data-aos="zoom-in") Este método tiene como principio el mejoramiento de todos los procesos aún sin presentar fallas, el cual es aplicado a la producción y al área logística de la compañía. 
-          p.mt-4(data-aos="zoom-in") Sus principales ejes temáticos son:
+          p.fw-bold(data-aos="fade-right") Método de mejora continua Kaizen
+          p.mt-4(data-aos="fade-right") Es un sistema creado por el ingeniero Nipón Taiichi Ohno para el fabricante de vehículos Toyota. Su función era aumentar la competitividad de la empresa y compararla con las compañías norteamericanas. 
+          p.mt-4(data-aos="fade-right") Tal reto la convirtió en referente de la gestión empresarial en todo el mundo.
+          p.mt-4(data-aos="fade-right") Este método tiene como principio el mejoramiento de todos los procesos aún sin presentar fallas, el cual es aplicado a la producción y al área logística de la compañía. 
+          p.mt-4(data-aos="fade-right") Sus principales ejes temáticos son:
           .col-xl-8.m-auto.mt-4.col-lg-10
             .row
               .col-md-6.mb-4.mb-md-0
@@ -331,7 +330,7 @@
           figure
             img(src="@/assets/curso/tema3/29.svg" data-aos="zoom-in-left" alt="Muestra ejes temáticos método Kaizen *clasificar *ordenar *limpiar *estandarizar *disciplina")
     
-    p.mt-5(data-aos="zoom-in") Esta metodología es una estrategia para incrementar la rentabilidad de la empresa, identifica y elimina todas las ineficiencias, además potencializa las fortalezas y oportunidades de la organización.
+    p.mt-5(data-aos="fade-right") Esta metodología es una estrategia para incrementar la rentabilidad de la empresa, identifica y elimina todas las ineficiencias, además potencializa las fortalezas y oportunidades de la organización.
     p.mt-4(data-aos="zoom-in") Existen también otras metodologías o herramientas utilizadas en lograr la mejora continua de los procesos: 
 
     .cont_3_3.mt-5
@@ -359,9 +358,8 @@
                 img(src="@/assets/curso/tema3/32.svg" style="display:inline;max-width:150px;" alt="Imagen decorativa")
               p.mt-3.text-center.mb-0 #[strong Metodología Lean:] localiza las etapas que no proporcionan un valor al producto final, con el fin de obtener un producto de máxima calidad.
     
-    Separador.mt-5
-
-    .titulo-segundo
+    Separador
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_2 3.2 Indicadores de Gestión Logística KPI (Key Performance Index)
     
     .row.mt-5
@@ -408,48 +406,48 @@
     
     .row.mt-5
       .col-lg-9.mb-4.mb-lg-0(style="place-self:center;")
-        p(data-aos="zoom-in") Con el fin de que los indicadores sean efectivos en la medición de los componentes logísticos, estos deben tener las siguientes características:
+        p(data-aos="fade-right") Con el fin de que los indicadores sean efectivos en la medición de los componentes logísticos, estos deben tener las siguientes características:
         .row.mt-4
           .col-lg
-            ul.lista-ul--separador(data-aos="zoom-in")
-              li
+            ul.lista-ul--separador
+              li(data-aos="fade-right")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Relevantes.
-              li
+              li(data-aos="fade-right")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Realistas.
-              li
+              li(data-aos="fade-right")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Cuantificables.
-              li
+              li(data-aos="fade-right")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Periódicos.
           .col-lg
-            ul.lista-ul--separador(data-aos="zoom-in")
-              li
+            ul.lista-ul--separador
+              li(data-aos="fade-left")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Atribuibles.
-              li
+              li(data-aos="fade-left")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Asociados a variables temporales.
-              li
+              li(data-aos="fade-left")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Estandarizados con un formato específico.
-              li
+              li(data-aos="fade-left")
                 i.fas.fa-check-circle(style="color:#4ADBD1;")
                 | Consistentes.
       .col-lg-3(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema3/33.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
-    p.mt-5(data-aos="zoom-in") Los indicadores que una empresa puede utilizar dependerán de su naturaleza, de los objetivos y áreas evaluadas en los procesos, así como de la información que puedan suministrar. A continuación, se presentan los tipos de indicadores KPI:
+    p.mt-5(data-aos="fade-right") Los indicadores que una empresa puede utilizar dependerán de su naturaleza, de los objetivos y áreas evaluadas en los procesos, así como de la información que puedan suministrar. A continuación, se presentan los tipos de indicadores KPI:
 
     .row.mt-5
       .col-lg-5.mb-4.mb-lg-0(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema3/35.svg" data-aos="zoom-in-left" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;")
-        LineaTiempoD.color-secundario
+        LineaTiempoD.color-secundario(data-aos="fade-left")
           div(numero="1" titulo="Indicadores de gestión de producción")
             p Determinan el nivel de eficiencia de la empresa en el área productiva:
             .row.mt-2
@@ -567,19 +565,18 @@
                 figure.text-center
                   img(src="@/assets/curso/tema3/39.svg" style="max-width:200px;display:inline;" alt="Imagen decorativa")
     
-    Separador.mt-5
-
-    .titulo-segundo
+    Separador
+    .titulo-segundo(data-aos="fade-right")
       h2#t_3_3 3.3 Evaluación del desempeño según metodología
     
-    p(data-aos="zoom-in") Los métodos de evaluación más comunes son los siguientes:
+    p(data-aos="fade-right") Los métodos de evaluación más comunes son los siguientes:
 
     .cont_3_2.mt-5.p-4.p-lg-5
       .row
-        .col-lg-6.mb-4.mb-lg-0(style="place-self:center;")
+        .col-lg-6.mb-4.mb-lg-0(style="place-self:center;" data-aos="fade-right")
           figure
             img(src="@/assets/curso/tema3/41.png" alt="Imagen decorativa")
-        .col-lg-6(style="place-self:center;")
+        .col-lg-6(style="place-self:center;" data-aos="fade-left")
           .tarjeta.bg-white.p-4.p-lg-5
             SlyderA(tipo="b")
               .row.text-center
@@ -598,12 +595,7 @@
                 p.fw-bold Evaluación en 360 grados
                 p.mt-4.mb-0 es una evaluación integral donde se busca una visión completa de los empleados, desde los puntos de vista de subordinados, compañeros, clientes, etc.
 
-
-
-    
- 
-
-      
+   
 </template>
 
 <script>
