@@ -220,25 +220,25 @@
           ul.lista-ul--separador
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente muy satisfecho:] clientes tienen la percepción de que el producto o servicio cumple las expectativas que están buscando, también su sentimiento de comodidad fortalece el vínculo con la organización, lo cual le permite hacer un proceso repetido de compra.
+              p.mb-0 #[strong Cliente muy satisfecho:] clientes tienen la percepción de que el producto o servicio cumple las expectativas que están buscando, también su sentimiento de comodidad fortalece el vínculo con la organización, lo cual le permite hacer un proceso repetido de compra.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente satisfecho:] es aquel que se encuentra en una situación inestable de fidelidad con la marca o el producto. Acepta el bien o servicio; sin embargo, si encuentra en el mercado una propuesta con mejor valor podría tener un cambio radical.
+              p.mb-0 #[strong Cliente satisfecho:] es aquel que se encuentra en una situación inestable de fidelidad con la marca o el producto. Acepta el bien o servicio; sin embargo, si encuentra en el mercado una propuesta con mejor valor podría tener un cambio radical.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente insatisfecho:] se refiere al cliente que no ha adquirido el producto de acuerdo con sus expectativas de compra. Es un cliente que tiene muchos perjuicios, puesto que se puede cambiar a otro proveedor en el mercado y promulgaría una experiencia negativa de la compra anterior. 
+              p.mb-0 #[strong Cliente insatisfecho:] se refiere al cliente que no ha adquirido el producto de acuerdo con sus expectativas de compra. Es un cliente que tiene muchos perjuicios, puesto que se puede cambiar a otro proveedor en el mercado y promulgaría una experiencia negativa de la compra anterior. 
       .row.col-xl-11.m-auto(titulo="Volumen de compra")
         .col-md-6.col-lg-9.mb-4.mb-md-0(style="place-self:center;")
           ul.lista-ul--separador
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes de alto volumen de compra:] estos consumidores están satisfechos con el bien o servicio y tienen compras en cantidades considerables entre el 50 y 80% del total de las ventas, de ellos depende la salud económica del negocio. Hacen las compras al por mayor y se denominan clientes mayoristas.
+              p.mb-0 #[strong Clientes de alto volumen de compra:] estos consumidores están satisfechos con el bien o servicio y tienen compras en cantidades considerables entre el 50 y 80% del total de las ventas, de ellos depende la salud económica del negocio. Hacen las compras al por mayor y se denominan clientes mayoristas.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes con volumen promedio de compra:] son los clientes que adquieren el producto de forma continua, debido al nivel de conformidad con la marca.
+              p.mb-0 #[strong Clientes con volumen promedio de compra:] son los clientes que adquieren el producto de forma continua, debido al nivel de conformidad con la marca.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes de bajo volumen de compra:] gracias a su nivel de ingresos, estos clientes no pueden adquirir el producto, pero su nivel de satisfacción es aceptable. Se denominan clientes minoristas y hacen las compras al por menor.
+              p.mb-0 #[strong Clientes de bajo volumen de compra:] gracias a su nivel de ingresos, estos clientes no pueden adquirir el producto, pero su nivel de satisfacción es aceptable. Se denominan clientes minoristas y hacen las compras al por menor.
         .col-md-6.col-lg-3(style="place-self:center;")
           figure
             img(src='@/assets/curso/tema1/21.png' alt="Imagen decorativa")
@@ -250,25 +250,25 @@
           ul.lista-ul--separador
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes muy influyentes:] aquellos clientes con capacidad de generar gran impacto en los consumidores para la adquisición de mercancías o servicios. Son usados frecuentemente personajes públicos con manejo alto de las redes sociales.
+              p.mb-0 #[strong Clientes muy influyentes:] aquellos clientes con capacidad de generar gran impacto en los consumidores para la adquisición de mercancías o servicios. Son usados frecuentemente personajes públicos con manejo alto de las redes sociales.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes con influencia promedio:] son clientes con grado significativo de conocimiento en un área específica y que, con su opinión, pueden influir en el deseo de los consumidores por acceder al bien o servicio.
+              p.mb-0 #[strong Clientes con influencia promedio:] son clientes con grado significativo de conocimiento en un área específica y que, con su opinión, pueden influir en el deseo de los consumidores por acceder al bien o servicio.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Clientes de influencia familiar:] se trata de aquellos que pueden influir sobre la decisión de compra dentro de los grupos familiares, lo que va creando una lealtad de marca a través de las nuevas generaciones.
+              p.mb-0 #[strong Clientes de influencia familiar:] se trata de aquellos que pueden influir sobre la decisión de compra dentro de los grupos familiares, lo que va creando una lealtad de marca a través de las nuevas generaciones.
       .row.col-xl-11.m-auto(titulo="Frecuencia")
         .col-md-6.col-lg-9.mb-4.mb-md-0(style="place-self:center;")
           ul.lista-ul--separador
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente de compra frecuente:] Compran de forma periódica los productos y marcas, están satisfechos; las empresas intentan fidelizar a estos clientes para que su relación se mantenga por tiempos prolongados. Con ellos la empresa debe mantener un trato personalizado y especial.
+              p.mb-0 #[strong Cliente de compra frecuente:] Compran de forma periódica los productos y marcas, están satisfechos; las empresas intentan fidelizar a estos clientes para que su relación se mantenga por tiempos prolongados. Con ellos la empresa debe mantener un trato personalizado y especial.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente de compra habitual:] realizan sus adquisiciones con cierto patrón de regularidad si les gusta el producto. Las empresas buscan aumentar la frecuencia de sus compras.
+              p.mb-0 #[strong Cliente de compra habitual:] realizan sus adquisiciones con cierto patrón de regularidad si les gusta el producto. Las empresas buscan aumentar la frecuencia de sus compras.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente de compra ocasional:]  son los que se acercan a demandar los bienes y servicios una sola vez, o de vez en cuando. A estos clientes se les da seguimiento, para pedirles información que pueda servir para tratar de convertirlos en habituales o frecuentes.
+              p.mb-0 #[strong Cliente de compra ocasional:]  son los que se acercan a demandar los bienes y servicios una sola vez, o de vez en cuando. A estos clientes se les da seguimiento, para pedirles información que pueda servir para tratar de convertirlos en habituales o frecuentes.
         .col-md-6.col-lg-3(style="place-self:center;")
           figure
             img(src='@/assets/curso/tema1/23.png' alt="Imagen decorativa")
@@ -280,10 +280,10 @@
           ul.lista-ul--separador
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente activo:] son los que compran con cierta regularidad en nuestro negocio, se les presta mucha atención porque son los que están formando nuestro nivel de ventas y de ingresos. Se deben buscar los medios para conservarlos y retenerlos. De ellos depende la sobrevivencia de la empresa.
+              p.mb-0 #[strong Cliente activo:] son los que compran con cierta regularidad en nuestro negocio, se les presta mucha atención porque son los que están formando nuestro nivel de ventas y de ingresos. Se deben buscar los medios para conservarlos y retenerlos. De ellos depende la sobrevivencia de la empresa.
             li
               i.fas.fa-check-circle(style="color:#4ADBD1;")
-              | #[strong Cliente inactivo:] Es el que en alguna oportunidad compró con nosotros, pero por alguna razón ya no lo hace. Es necesario ubicarlo para conocer la causa o razón por la  que abandonó la empresa y buscar la forma de recuperarlo.
+              p.mb-0 #[strong Cliente inactivo:] Es el que en alguna oportunidad compró con nosotros, pero por alguna razón ya no lo hace. Es necesario ubicarlo para conocer la causa o razón por la  que abandonó la empresa y buscar la forma de recuperarlo.
     
     Separador
     .titulo-segundo(data-aos="fade-right")
