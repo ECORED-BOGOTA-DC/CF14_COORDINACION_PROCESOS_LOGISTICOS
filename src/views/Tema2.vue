@@ -313,7 +313,8 @@
     .col-xl-8.m-auto.mt-5.col-lg-10
       .titulo-sexto.color-acento-contenido(data-aos="fade-right")
           h5 Figura 4.
-          span Etapas de un sistema de gestión ambiental
+          span Etapas de un Sistema de Gestión Ambiental
+
       figure
         img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" alt="Muestra grafico de etapas de un sistema de gestión ambiental con el siguiente texto: 1. Etapa de planteamiento: los mecanismos a aplicar, duración y forma de conseguir lo propuesto por la organización.  2. Etapa de implementación: Se lleva a cabo un plan, una preparación con vistas al punto mencionado 3. Etapa de verificación: Se hace una comparación entre la implementación realizada con la que se planificó inicialmente. 4. Etapa de mejora: Se definen las gestiones que se requieren para remediar las problemáticas generadas de desviaciones registradas en el sistema de gestión ambiental.")
     
@@ -445,6 +446,9 @@
     p.mt-5(data-aos="fade-right") El sistema de gestión de calidad es una regla que permite estandarizar el sistema de control de calidad de las organizaciones. La ISO (Organización Internacional de Estandarización) es una entidad que congrega a representantes de varios países que tienen como fin desarrollar normas de estandarización en diferentes áreas de actuación (ISO 9001: 2015, 2018). Para implementar un sistema de gestión de calidad se deben considerar las siguientes etapas: 
 
     .col-xl-10.m-auto.mt-5
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 5.
+          span Etapas para implementar un sistema de gestión de calidad
       figure
         img(src="@/assets/curso/tema2/29.svg" data-aos="zoom-in-up" alt="Muestra etapas para implementar sistemas de gestión de calidad 1. Establecer la situación actual de la organización  2. . Definir los objetivos 3. Estimación de plazos- tiempos 4.Definición de recursos y personal 5. Estimar la productividad actual 6. Aplicar cambios que permitan obtener mejoras")
     
@@ -525,7 +529,7 @@
     .cont_2_3.mt-5
       .col-xl-4.col-lg-6.m-auto
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 5.
+          h5 Figura 6.
           span Organización estructural de los sistemas de gestión de la calidad.
         figure
           img(src="@/assets/curso/tema2/38.svg" data-aos="zoom-in-up" alt="Muestra organización estructural de los sistemas de gestión de calidad: 1. objetivo o alcance 2. Normatividad 3. Definiciones y términos 4. Marco de la organización 5. Liderazgo  6. La planificación 7. Soporte")
@@ -692,7 +696,7 @@
     p.mt-5(data-aos="fade-right") En la siguiente figura se presentan las fases para la aplicación de un sistema de trazabilidad:
 
     .titulo-sexto.color-acento-botones.mt-5(data-aos="fade-right")
-      h5 Figura 6.
+      h5 Figura 7.
       span Fases para la aplicación de un sistema de trazabilidad
     figure
       img(src="@/assets/curso/tema2/50.svg" data-aos="zoom-in-up" alt="Imagen que muestra fases para la aplicación de un sistema de trazabilidad y se describen en la parte inferior.")
