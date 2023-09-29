@@ -135,7 +135,7 @@ export default {
           {
             numero: '3.2',
             titulo:
-              'ProIndicadores de Gestión Logística KPI (Key Performance Indicator)ducción',
+              'Indicadores de Gestión Logística KPI (<i>Key Performance Index</i>)',
             hash: 't_3_2',
           },
           {
@@ -254,7 +254,7 @@ export default {
         'conjunto de métodos que se siguen en una investigación científica o en una exposición doctrinal (Sdelsol, 2021).',
     },
     {
-      termino: 'Planeación estratégic',
+      termino: 'Planeación estratégica',
       significado:
         'es una herramienta de gestión que permite establecer el quehacer y el camino que deben recorrer las organizaciones para alcanzar las metas previstas, teniendo en cuenta los cambios y demandas que impone su entorno (Roncancio, 2018).',
     },
@@ -300,7 +300,7 @@ export default {
     {
       referencia:
         'Léxico. (2021). <em>Significado de auditoría en español</em>. Léxico.com.',
-      link: 'https://www.lexico.com/es/definicion/auditoria',
+      link: 'https://www.dictionary.com/browse/audit',
     },
     {
       referencia:

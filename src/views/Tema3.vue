@@ -593,7 +593,7 @@
                 p.mt-4.mb-0 Es la comparación entre dos empleados, donde registrarán quién tiene mejor desempeño. El evaluador comparará cada empleado con todos los demás del proceso evaluativo.
               .row.text-center
                 p.fw-bold Evaluación en 360 grados
-                p.mt-4.mb-0 es una evaluación integral donde se busca una visión completa de los empleados, desde los puntos de vista de subordinados, compañeros, clientes, etc.
+                p.mt-4.mb-0 Es una evaluación integral donde se busca una visión completa de los empleados, desde los puntos de vista de subordinados, compañeros, clientes, etc.
 
    
 </template>

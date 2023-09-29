@@ -308,9 +308,12 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
         p.mb-0 El Sistema de Gestión Ambiental (SGA) es una herramienta o metodología que desarrolla una estructura organizativa, responsabilidades, prácticas, procedimientos, procesos y recursos para determinar y alcanzar una política medioambiental responsable. 
     
-    p.mt-5.text-center.fw-bold(data-aos="fade-right") En la siguiente figura se presentan las etapas de un Sistema de Gestión Ambiental. 
+    p.mt-5.text-jusify(data-aos="fade-right") En la siguiente figura se presentan las etapas de un Sistema de Gestión Ambiental. 
 
     .col-xl-8.m-auto.mt-5.col-lg-10
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+          h5 Figura 4.
+          span Etapas de un sistema de gestión ambiental
       figure
         img(src="@/assets/curso/tema2/18.svg" data-aos="zoom-in-up" alt="Muestra grafico de etapas de un sistema de gestión ambiental con el siguiente texto: 1. Etapa de planteamiento: los mecanismos a aplicar, duración y forma de conseguir lo propuesto por la organización.  2. Etapa de implementación: Se lleva a cabo un plan, una preparación con vistas al punto mencionado 3. Etapa de verificación: Se hace una comparación entre la implementación realizada con la que se planificó inicialmente. 4. Etapa de mejora: Se definen las gestiones que se requieren para remediar las problemáticas generadas de desviaciones registradas en el sistema de gestión ambiental.")
     
@@ -522,7 +525,7 @@
     .cont_2_3.mt-5
       .col-xl-4.col-lg-6.m-auto
         .titulo-sexto.color-acento-contenido(data-aos="fade-right")
-          h5 Figura 4.
+          h5 Figura 5.
           span Organización estructural de los sistemas de gestión de la calidad.
         figure
           img(src="@/assets/curso/tema2/38.svg" data-aos="zoom-in-up" alt="Muestra organización estructural de los sistemas de gestión de calidad: 1. objetivo o alcance 2. Normatividad 3. Definiciones y términos 4. Marco de la organización 5. Liderazgo  6. La planificación 7. Soporte")
@@ -538,7 +541,7 @@
         p.mb-0 La Norma OHSAS 18001 es un estándar voluntario que se relaciona con la salud en el trabajo y con la seguridad en el trabajo. En el desarrollo de esta se obtuvo la participación de distintas empresas certificadoras alrededor del mismo, reuniendo más de 15 países de Asia, Europa y América. 
     
     .cajon.color-primario.mt-5.p-4(style="background-color:#F2F6FE;" data-aos="fade-right") 
-      p.mb-0El objetivo de las Normas OHSAS 18001:2007 es el mejoramiento de la seguridad y la salud en todos los lugares de trabajo, mediante una gestión estructurada y sistemática, que es complementaria y compatible con los sistemas de gestión de calidad y medio ambiente. 
+      p.mb-0El El objetivo de las Normas OHSAS 18001:2007 es el mejoramiento de la seguridad y la salud en todos los lugares de trabajo, mediante una gestión estructurada y sistemática, que es complementaria y compatible con los sistemas de gestión de calidad y medio ambiente. 
     
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")
@@ -689,7 +692,7 @@
     p.mt-5(data-aos="fade-right") En la siguiente figura se presentan las fases para la aplicación de un sistema de trazabilidad:
 
     .titulo-sexto.color-acento-botones.mt-5(data-aos="fade-right")
-      h5 Figura 5.
+      h5 Figura 6.
       span Fases para la aplicación de un sistema de trazabilidad
     figure
       img(src="@/assets/curso/tema2/50.svg" data-aos="zoom-in-up" alt="Imagen que muestra fases para la aplicación de un sistema de trazabilidad y se describen en la parte inferior.")
@@ -826,7 +829,7 @@
       .col-lg-8.mb-4.mb-lg-0(style="place-self:center;")
         p(data-aos="zoom-in") Con relación al tamaño de la agrupación o del lote, la empresa es responsable de definir el grado de precisión, así como el sistema de identificación que se va a implementar. En este sentido, la precisión con que se forma una agrupación establecerá el tamaño de esta. 
         .cajon.color-primario.mt-4.p-4(style="background-color:#F2F6FE;") 
-          p.mb-0(data-aos="zoom-in") Habitualmente, cuánto más delimitada sea una agrupación menor será la cantidad de producto que se debe retirar o inmovilizar en caso de inconvenientes de seguridad alimentaria, lo cual se denomina “recall”, por lo cual en la experiencia: 
+          p.mb-0(data-aos="zoom-in") Habitualmente, cuánto más delimitada sea una agrupación menor será la cantidad de producto que se debe retirar o inmovilizar en caso de inconvenientes de seguridad alimentaria, lo cual se denomina “<i>recall</i>”, por lo cual en la experiencia: 
       .col-lg-4(style="place-self:center;")
         figure
           img(src="@/assets/curso/tema2/64.png" data-aos="zoom-in-left" alt="Imagen decorativa")
@@ -945,7 +948,7 @@
           img(src="@/assets/curso/tema2/71.png" data-aos="zoom-in-left" alt="Imagen decorativa")
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
-      h4.mb-0 Establecer procedimientos para la localización, inmovilización y/o retiro de productos (recall)
+      h4.mb-0 Establecer procedimientos para la localización, inmovilización y/o retiro de productos (<i>recall</i>)
 
     .row.mt-5
       .col-lg-3.mb-4.mb-lg-0(style="place-self:center;")

@@ -82,10 +82,10 @@
           img(src="@/assets/curso/tema1/9.svg" alt="Imagen decorativa")
       .col-lg-7(style="place-self:center;" data-aos="fade-left")
         LineaTiempoD.color-secundario
-          p.text-small(numero="1" titulo="Plan de acciones") Determina los objetivos asignados a cada área y persona responsable de las actividades comprometidas en las líneas estratégicas, para que tomen acciones necesarias en la asignación de recursos y en el control de los resultados.
-          p.text-small(numero="2" titulo="Estrategias") Es el plan de acción que muestra el curso y el uso total de las herramientas dispuestas para el cumplimiento de los objetivos establecidos.
-          p.text-small(numero="3" titulo="Programas") Describe la totalidad de acciones, ejecutores y horizonte requeridos para llevar a la práctica los planes del negocio
-          p.text-small(numero="4" titulo="Presupuestos") Es la etapa fundamental del plan estratégico, debido a que se asignan los recursos necesarios para implementar las estrategias, la cual es útil como herramienta en el control de resultados por medio del cumplimiento del presupuesto.
+          p.text-small(numero="5" titulo="Plan de acciones") Determina los objetivos asignados a cada área y persona responsable de las actividades comprometidas en las líneas estratégicas, para que tomen acciones necesarias en la asignación de recursos y en el control de los resultados.
+          p.text-small(numero="6" titulo="Estrategias") Es el plan de acción que muestra el curso y el uso total de las herramientas dispuestas para el cumplimiento de los objetivos establecidos.
+          p.text-small(numero="7" titulo="Programas") Describe la totalidad de acciones, ejecutores y horizonte requeridos para llevar a la práctica los planes del negocio
+          p.text-small(numero="8" titulo="Presupuestos") Es la etapa fundamental del plan estratégico, debido a que se asignan los recursos necesarios para implementar las estrategias, la cual es útil como herramienta en el control de resultados por medio del cumplimiento del presupuesto.
     
     .mt-5.p-3.ps-4.pe-4.mb-4(style="max-width:fit-content;background-color:#57DBD8;border-radius:0px 30px 0px 30px;" data-aos="zoom-in-right")
       h4.mb-0 Matriz FODA
